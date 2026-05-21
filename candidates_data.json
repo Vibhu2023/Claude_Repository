@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "organization": "Moolchand Healthcare Group",
+    "hiring_manager": "Vibhu Talwar",
+    "last_updated": "2026-05-21",
+    "total_open_positions": 3
+  },
+  "positions": {
+    "FIN-001": {
+      "title": "Sr Finance Manager / Finance & AR Lead",
+      "target": 2,
+      "hired": 1,
+      "need": 1
+    },
+    "RPA-001": {
+      "title": "RPA Developer",
+      "target": 2,
+      "hired": 0,
+      "need": 2
+    },
+    "DRO-001": {
+      "title": "Chief Digital Revenue Officer",
+      "target": 1,
+      "hired": 0,
+      "need": 1
+    }
+  },
+  "candidates": [
+    {
+      "id": "FIN-JAT-001",
+      "name": "Jatin Sachdeva",
+      "position": "FIN-001",
+      "status": "HIRED",
+      "score": 7.2,
+      "source": "GIST Consulting",
+      "offer_ctc": "4.5L",
+      "joining_date": "2026-06-18",
+      "email": "",
+      "phone": "",
+      "priority": 0,
+      "notes": "Confirmed joining June 18, 2026"
+    },
+    {
+      "id": "FIN-RAH-001",
+      "name": "CA Rahul Madaan",
+      "position": "FIN-001",
+      "status": "PRIMARY",
+      "score": 8.8,
+      "source": "GIST Consulting",
+      "current_ctc": "35L",
+      "target_ctc": "42-44L",
+      "notice_days": 30,
+      "est_start": "2026-06-15",
+      "email": "rahulmadaan942@gmail.com",
+      "phone": "9873060422",
+      "location": "Faridabad",
+      "priority": 1,
+      "action": "CONTACT TODAY",
+      "notes": "Only viable Finance option after Abhishek declined and Vikas rejected"
+    },
+    {
+      "id": "FIN-ABH-001",
+      "name": "CA Abhishek Goyal",
+      "position": "FIN-001",
+      "status": "REJECTED",
+      "score": 9.3,
+      "notes": "Declined offer despite highest score"
+    },
+    {
+      "id": "FIN-VIK-001",
+      "name": "Vikas Jain",
+      "position": "FIN-001",
+      "status": "REJECTED",
+      "score": 7.5,
+      "notes": "Rejected by Moolchand - SAP inexperience, weak AR/C2C"
+    },
+    {
+      "id": "FIN-MAN-001",
+      "name": "CA Manu Singla",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.9,
+      "priority": 1,
+      "notes": "Too junior (3 years experience)"
+    },
+    {
+      "id": "FIN-JAT-002",
+      "name": "CA Jatin Anand",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.5,
+      "priority": 2,
+      "notes": "6 years experience"
+    },
+    {
+      "id": "FIN-KAP-001",
+      "name": "CA Kapil Sharma",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 7.8,
+      "priority": 3,
+      "notes": "7 years experience"
+    },
+    {
+      "id": "FIN-RIT-001",
+      "name": "Ritu Arora",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.2,
+      "current_ctc": "31.67L",
+      "priority": 4,
+      "notes": "7 years, high CTC"
+    },
+    {
+      "id": "FIN-SHU-001",
+      "name": "Shukla Satia",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 7.8,
+      "priority": 5,
+      "notes": "6 years experience"
+    },
+    {
+      "id": "RPA-RIT-001",
+      "name": "Ritik Gupta",
+      "position": "RPA-001",
+      "status": "BACKED_OUT",
+      "score": 8.8,
+      "notes": "Was confirmed hired, withdrew after acceptance"
+    },
+    {
+      "id": "RPA-KAM-001",
+      "name": "Kamal",
+      "position": "RPA-001",
+      "status": "PRIMARY",
+      "score": 7.8,
+      "source": "GIST Consulting",
+      "current_ctc": "6.6L",
+      "target_ctc": "6.6L",
+      "notice_days": 90,
+      "est_start": "2026-07-01",
+      "contact_via": "GIST - Hemant Kulasri",
+      "priority": 1,
+      "action": "CONTACT THIS WEEK",
+      "notes": "UiPath Orchestrator 5/5, negotiate notice to 60 days"
+    },
+    {
+      "id": "RPA-ANS-001",
+      "name": "Anshul Vashisth",
+      "position": "RPA-001",
+      "status": "PRIMARY",
+      "score": 8.8,
+      "source": "Internal",
+      "current_ctc": "6L",
+      "target_ctc": "6L",
+      "notice_days": 0,
+      "est_start": "2026-07-01",
+      "priority": 2,
+      "action": "CONTACT WEEK 2",
+      "notes": "SAP FICO integration expert, immediate joiner, needs 2-3L training budget"
+    },
+    {
+      "id": "RPA-SHA-001",
+      "name": "Shahe Faisal",
+      "position": "RPA-001",
+      "status": "OPTIONAL",
+      "score": 8.5,
+      "source": "PDF May 18",
+      "current_ctc": "7L",
+      "ask_ctc": "13-15L",
+      "notice_days": 15,
+      "notes": "Premium candidate at Capgemini, competing offers from Cognizant/TCS"
+    },
+    {
+      "id": "RPA-SUB-001",
+      "name": "Subrat",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "notes": "Tier 3 - Limited enterprise experience"
+    },
+    {
+      "id": "RPA-JAS-001",
+      "name": "Jasmin Bar",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "notes": "Tier 3 - Limited enterprise experience"
+    },
+    {
+      "id": "RPA-HAR-001",
+      "name": "Hardik Agarwal",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "notes": "Junior, mentorship-pair only"
+    },
+    {
+      "id": "DRO-KUW-001",
+      "name": "Kuwarjeet Sidana",
+      "position": "DRO-001",
+      "status": "PRIMARY",
+      "score": 9.5,
+      "source": "GIST Consulting",
+      "current_ctc": "23L",
+      "target_ctc": "28L",
+      "notice_days": 30,
+      "est_start": "2026-06-15",
+      "email": "kuwarjeetsingh18@gmail.com",
+      "phone": "8800100021",
+      "location": "Delhi",
+      "priority": 1,
+      "action": "INTERVIEW THIS WEEK",
+      "notes": "Only candidate, no backup. Must close this week."
+    }
+  ]
+}
