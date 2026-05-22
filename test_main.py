@@ -1,13 +1,16 @@
-"""Unit tests for git utility functions."""
+"""Unit tests for git utility functions and daily pipeline status report."""
 
+import json
 import subprocess
 import tempfile
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
 import pytest
 
 from main import run_git, init_repo, get_status, get_log, get_branches, create_branch
+from daily_status import load_data, count_by_status, candidates_needing_action, render_report, DATA_FILE
 
 
 def make_temp_repo() -> str:
@@ -95,3 +98,70 @@ class TestCreateBranch:
         assert create_branch("feature/test", path) is True
         branches = get_branches(path)
         assert "feature/test" in branches
+
+
+class TestDailyStatus:
+    IST = timezone(timedelta(hours=5, minutes=30))
+
+    def _sample_data(self) -> dict:
+        return {
+            "meta": {"organization": "Test Org", "hiring_manager": "Test User", "last_updated": "2026-05-19"},
+            "positions": [
+                {"id": "FIN-001", "title": "Finance Lead", "target_headcount": 2, "hired": 1, "needed": 1, "urgency": "URGENT"}
+            ],
+            "candidates": [
+                {"id": "C1", "name": "Alice", "position_id": "FIN-001", "position_title": "Finance",
+                 "status": "HIRED", "score": 8.0, "action_required": "Onboard", "action_deadline": "THIS WEEK",
+                 "email": None, "phone": None, "target_offer": None, "est_start": None},
+                {"id": "C2", "name": "Bob", "position_id": "FIN-001", "position_title": "Finance",
+                 "status": "PRIMARY", "score": 9.0, "action_required": "Call today",
+                 "action_deadline": "TODAY", "email": "bob@example.com", "phone": "9999999999",
+                 "target_offer": "₹10L", "est_start": "June 2026"},
+                {"id": "C3", "name": "Carol", "position_id": "FIN-001", "position_title": "Finance",
+                 "status": "REJECTED", "score": 6.0, "action_required": None, "action_deadline": None},
+            ]
+        }
+
+    def test_load_data_returns_dict(self):
+        data = load_data()
+        assert isinstance(data, dict)
+        assert "candidates" in data
+        assert "positions" in data
+
+    def test_count_by_status(self):
+        data = self._sample_data()
+        counts = count_by_status(data["candidates"])
+        assert counts["HIRED"] == 1
+        assert counts["PRIMARY"] == 1
+        assert counts["REJECTED"] == 1
+
+    def test_candidates_needing_action(self):
+        data = self._sample_data()
+        urgent = candidates_needing_action(data["candidates"])
+        names = [c["name"] for c in urgent]
+        assert "Alice" in names   # HIRED with action
+        assert "Bob" in names     # PRIMARY with action
+        assert "Carol" not in names  # REJECTED, no action
+
+    def test_render_report_contains_key_sections(self):
+        data = self._sample_data()
+        now = datetime(2026, 5, 22, 10, 0, 0, tzinfo=self.IST)
+        report = render_report(data, now)
+        assert "Executive Summary" in report
+        assert "Actions Required Today" in report
+        assert "Position Breakdown" in report
+        assert "Alice" in report
+        assert "Bob" in report
+        assert "bob@example.com" in report
+
+    def test_render_report_date_appears(self):
+        data = self._sample_data()
+        now = datetime(2026, 5, 22, 10, 0, 0, tzinfo=self.IST)
+        report = render_report(data, now)
+        assert "May 22, 2026" in report
+
+    def test_render_report_progress_bar(self):
+        data = self._sample_data()
+        now = datetime(2026, 5, 22, 10, 0, 0, tzinfo=self.IST)
+        report = render_report(data, now)
+        assert "1/2 filled" in report
