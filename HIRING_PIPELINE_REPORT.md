@@ -1,7 +1,22 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last Updated:** May 24, 2026 (Daily 10 AM Update)  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## Daily Status Update — May 24, 2026
+
+| Action Item | Deadline | Status |
+|-------------|----------|--------|
+| Contact CA Rahul Madaan (Finance) | May 19-20 | ⏳ Follow-up if no response |
+| Contact Kuwarjeet Sidana (DRO) | May 19-20 | ⏳ Follow-up if no response |
+| Outreach Kamal via GIST (RPA #1) | May 20-21 | ⏳ Confirm GIST contacted |
+| Contact Anshul Vashisth (RPA #2) | May 27-28 | 🔜 Upcoming next week |
+| Confirm Jatin Sachdeva onboarding | Ongoing | ✅ Hired, joining June 18 |
+
+> **Today's Focus:** Week 1 outreach for Rahul, Kuwarjeet, and Kamal should now be done or in-progress. Chase responses and move toward offers. Anshul outreach starts May 27.
 
 ---
 
@@ -17,7 +32,7 @@
 | **Rejected/Excluded** | 8 |
 | **Cost Estimate (Remaining 4)** | ₹89-91L |
 
-**Overall Status:** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+**Overall Status:** CRITICAL - Week 1 outreach underway. Rahul (Finance), Kuwarjeet (DRO), and Kamal (RPA) contacts due/in-progress. Ritik backed out; Jatin hired and confirmed for June 18.
 
 ---
 
@@ -31,9 +46,9 @@
   - Source: GIST Consulting
   - Offer: ₹4.5L | Joining: **June 18, 2026** ✓
   - Experience: 4 years general accounting
-  - Status: **CONFIRMED**
+  - Status: **CONFIRMED** ✅
 
-#### PRIMARY (Contact Immediately)
+#### PRIMARY (Follow Up if No Response)
 - **CA Rahul Madaan** (FIN-RAH-001) - Score: 8.8/10 ⭐
   - Source: GIST Consulting
   - Current CTC: ₹35L | Target Offer: ₹42-44L
@@ -43,7 +58,7 @@
   - Location: Faridabad
   - Core Skills: C2C (4.5/5) | AR (4.5/5) | SAP | Tally | Advanced Excel
   - Certifications: CA (3rd attempt)
-  - **Action:** CONTACT TODAY - ONLY viable option after rejections
+  - **Action:** ⏳ FOLLOW UP - Initial contact due May 19-20. If no response, call today.
   - **Red Flag:** None - Best finance candidate available
 
 #### Rejected (Earlier Attempts)
@@ -62,7 +77,7 @@
 4. **Ritu Arora** (FIN-RIT-001) - Score: 8.2/10 (7 years, high CTC ₹31.67L)
 5. **Shukla Satia** (FIN-SHU-001) - Score: 7.8/10 (6 years experience)
 
-**Finance Position Summary:** Strong primary candidate in Rahul. If unsuccessful, multiple qualified backups available (all meet 6-10yr requirement except Jatin). Cost manageable at proposed levels.
+**Finance Position Summary:** Strong primary candidate in Rahul. Initial contact window passed (May 19-20) — confirm status and push for offer if engaged. Backups available if needed.
 
 ---
 
@@ -75,16 +90,16 @@
   - Withdrew offer after acceptance
   - Impact: Team now at 0 developers
 
-#### PRIMARY #1 - Contact This Week
+#### PRIMARY #1 — Follow Up This Week
 - **Kamal** (RPA-KAM-001) - Score: 7.8/10
   - Source: GIST Consulting
   - CTC: ₹6.6L | Notice: 90 days (negotiate to 60)
   - Estimated Start: July 2026
   - **Contact:** Via GIST - Hemant Kulasri
   - Core Skills: UiPath Orchestrator (5/5) | UiPath (4.5/5) | Enterprise bot scaling
-  - **Action:** CONTACT THIS WEEK - Offer ₹6.6L
+  - **Action:** ⏳ GIST outreach was due May 20-21 — confirm status and next steps
 
-#### PRIMARY #2 - Contact Week 2
+#### PRIMARY #2 — Contact Starting May 27
 - **Anshul Vashisth** (RPA-ANS-001) - Score: 8.8/10 ⭐
   - Source: Internal
   - CTC: ₹6L | Notice: Immediate
@@ -92,7 +107,7 @@
   - Core Skills: SAP FICO integration | UiPath | Enterprise automation
   - **Critical Advantage:** SAP expertise (Moolchand uses SAP HANA)
   - Training Budget: ₹2-3L for advanced SAP training
-  - **Action:** CONTACT WEEK 2 - Offer ₹6L + training budget
+  - **Action:** 🔜 CONTACT WEEK 2 (May 27-28) — Offer ₹6L + training budget
 
 #### PREMIUM OPTIONAL
 - **Shahe Faisal** (RPA-SHA-001) - Score: 8.5/10
@@ -108,14 +123,14 @@
 - **Subrat** (RPA-SUB-001), **Jasmin Bar** (RPA-JAS-001) - Limited enterprise experience
 - **Hardik Agarwal** (RPA-HAR-001) - Junior, mentorship-pair only
 
-**RPA Position Summary:** URGENT - Both primary candidates available with different strengths. Kamal has Orchestrator expertise; Anshul has critical SAP integration skills. Dual-hire strategy recommended. Combined cost: ₹12.6L-15.6L (plus training).
+**RPA Position Summary:** URGENT — Confirm Kamal status via GIST this week. Anshul outreach begins May 27. Dual-hire recommended. Combined cost: ₹12.6L-15.6L (plus training).
 
 ---
 
 ### 3. Chief Digital Revenue Officer (DRO-001)
 **Target:** 1 position | **Candidates:** 1 | **Status:** PRIMARY - NO BACKUP
 
-#### PRIMARY - ONLY CANDIDATE
+#### PRIMARY — ONLY CANDIDATE
 - **Kuwarjeet Sidana** (DRO-KUW-001) - Score: 9.5/10 ⭐⭐⭐
   - Source: GIST Consulting
   - Current CTC: ₹23L | Target Offer: ₹28L
@@ -131,50 +146,33 @@
     - Power BI
     - GenAI chatbots
   - **Key Achievement:** 130+ Cr digital-led revenue at Fortis | 1.5-1.7M monthly sessions | 12% conversion improvement
-  - **Action:** INTERVIEW THIS WEEK - Offer ₹28L
+  - **Action:** ⏳ FOLLOW UP — Interview/offer due May 19-20. Confirm outcome and push to close.
   - **Risk:** NO BACKUP candidate available
 
-**DRO Position Summary:** Exceptional candidate (9.5/10) with healthcare experience. Zero backup risk - must close this week. Recommended offer: ₹28L.
+**DRO Position Summary:** Exceptional candidate (9.5/10) with healthcare experience. No backup — must close this week. If interview not yet done, schedule immediately. Recommended offer: ₹28L.
 
 ---
 
-## Critical Actions Dashboard
+## Critical Actions Dashboard — May 24, 2026
 
-### PRIORITY 1 - TODAY/TOMORROW
-**Contact:** CA Rahul Madaan (Finance)
-- **Email:** rahulmadaan942@gmail.com
-- **Phone:** 9873060422
-- **Offer:** ₹42-44L | 30-day notice | Mid-June start
-- **Reason:** Only viable Finance option after Abhishek declined and Vikas rejected
-- **Timeline:** Contact TODAY
+### COMPLETED / IN-PROGRESS (Week 1 — May 19-21)
+| # | Action | Candidate | Target Date | Status |
+|---|--------|-----------|-------------|--------|
+| 1 | Initial contact | Rahul Madaan (Finance) | May 19-20 | ⏳ Chase response |
+| 2 | Initial contact | Kuwarjeet Sidana (DRO) | May 19-20 | ⏳ Chase response |
+| 3 | GIST outreach | Kamal (RPA #1) | May 20-21 | ⏳ Confirm w/ GIST |
+| 5 | Onboarding prep | Jatin Sachdeva (Hired) | Ongoing | ✅ Joining June 18 |
 
-### PRIORITY 2 - THIS WEEK (May 19-21)
-**Contact:** Kuwarjeet Sidana (DRO)
-- **Email:** kuwarjeetsingh18@gmail.com
-- **Phone:** 8800100021
-- **Offer:** ₹28L | 30-day notice | June 15-30 start
-- **Reason:** Only candidate, no backup available
-- **Timeline:** Contact TODAY/TOMORROW
+### UPCOMING (Week 2 — May 27-28)
+| # | Action | Candidate | Target Date | Status |
+|---|--------|-----------|-------------|--------|
+| 4 | Direct contact | Anshul Vashisth (RPA #2) | May 27-28 | 🔜 Not started |
 
-### PRIORITY 3 - THIS WEEK (May 20-21)
-**Contact:** Kamal (RPA Primary #1)
-- **Contact Method:** Via GIST - Hemant Kulasri
-- **Offer:** ₹6.6L | Negotiate 90→60 days notice
-- **Reason:** Enterprise orchestration expertise
-- **Timeline:** Contact THIS WEEK
-
-### PRIORITY 4 - WEEK 2 (May 27-28)
-**Contact:** Anshul Vashisth (RPA Primary #2)
-- **Contact Method:** From resume
-- **Offer:** ₹6L + ₹2-3L SAP training budget
-- **Reason:** SAP FICO integration critical for HANA deployment
-- **Timeline:** WEEK 2
-
-### PRIORITY 5 - THIS WEEK
-**Confirm:** Jatin Sachdeva (Finance - Already Hired)
-- **Status:** HIRED ✓
-- **Joining Date:** June 18, 2026
-- **Action:** Confirm onboarding details and first-day logistics
+### TODAY'S FOCUS (May 24)
+1. **Rahul Madaan** — If no response to initial outreach, call 9873060422 and push for offer ₹42-44L
+2. **Kuwarjeet Sidana** — If interview not yet done, schedule now. Time-sensitive (June 15-30 start target; no backup)
+3. **Kamal** — Confirm GIST (Hemant Kulasri) has connected. Get update on notice period negotiation.
+4. **Jatin Sachdeva** — Send onboarding details for June 18 joining
 
 ---
 
@@ -243,39 +241,40 @@
 
 ## Recommendations
 
-### Immediate (Today)
-1. ✅ **Contact Rahul Madaan** - Finance closure
-2. ✅ **Contact Kuwarjeet Sidana** - DRO closure
-3. ✅ **Confirm Jatin Sachdeva** - Onboarding prep
+### Immediate (Today — May 24)
+1. ⏳ **Chase Rahul Madaan** — If no response since May 19-20, call now
+2. ⏳ **Chase Kuwarjeet Sidana** — Interview/offer must happen this week (no backup)
+3. ⏳ **Confirm Kamal** — Get GIST update on status and notice period negotiation
+4. ✅ **Jatin Sachdeva** — Send onboarding checklist for June 18
 
-### This Week
-4. 📞 **Outreach Kamal** via GIST for RPA #1
-5. 📋 **Prepare counter-offers** for RPA candidates (competing offers exist)
+### This Week (May 24-26)
+5. 📋 **Prepare offer letters** for Rahul and Kuwarjeet if discussions progressed
+6. 💼 **Counter-offer prep** for RPA candidates (competing offers exist)
 
-### Week 2
-6. 📞 **Contact Anshul Vashisth** for RPA #2
-7. 💰 **Approve SAP training budget** (₹2-3L) for Anshul
+### Week 2 (May 27-28)
+7. 📞 **Contact Anshul Vashisth** for RPA #2
+8. 💰 **Approve SAP training budget** (₹2-3L) for Anshul
 
 ### Ongoing
-8. 🏖️ **Prepare onboarding** for June 18 (Jatin) and mid-June (others)
-9. 📊 **Weekly status updates** on primary candidate confirmations
-10. 💼 **Budget planning** for premium RPA tier if needed
+9. 🏖️ **Prepare onboarding** for June 18 (Jatin) and mid-June (others)
+10. 📊 **Daily 10 AM updates** on primary candidate confirmations
 
 ---
 
 ## Hiring Timeline
 
 ```
-May 19-20    → Contact Rahul (Finance), Kuwarjeet (DRO)
-May 20-21    → Outreach Kamal (RPA #1)
-May 27-28    → Contact Anshul (RPA #2)
-June 18      → Jatin Sachdeva joins (Finance)
-June 15-30   → Kuwarjeet joins (DRO)
-July 2026    → Kamal + Anshul expected start (RPA)
+May 19-20    → Contact Rahul (Finance), Kuwarjeet (DRO)         [Done/in-progress]
+May 20-21    → Outreach Kamal (RPA #1) via GIST                 [Done/in-progress]
+May 24       → DAILY UPDATE — Chase all Week 1 responses        [TODAY ◀]
+May 27-28    → Contact Anshul (RPA #2)                          [Upcoming]
+June 18      → Jatin Sachdeva joins (Finance)                   [Confirmed ✅]
+June 15-30   → Kuwarjeet joins (DRO)                            [Pending offer]
+July 2026    → Kamal + Anshul expected start (RPA)              [Pending outreach]
 ```
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** May 24, 2026 (Daily 10 AM Update)  
+**Next Review:** May 25, 2026 (Daily 10 AM)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
