@@ -1,0 +1,68 @@
+╔══════════════════════════════════════════════════════════════════╗
+║         DAILY HIRING PIPELINE STATUS — May 26, 2026            ║
+║         Moolchand Healthcare Group                               ║
+║         Hiring Manager: Vibhu Talwar                          ║
+╚══════════════════════════════════════════════════════════════════╝
+Generated: 09:03 AM IST
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PIPELINE SNAPSHOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Candidates : 17
+  Active           : 11  (Hired + Primary + Backup + Optional)
+    ✅  Hired      : 1
+    🎯  Primary    : 4
+    🔄  Backup     : 5
+  Rejected/Out     : 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POSITIONS STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🟡 **Sr Finance Manager / Finance & AR Lead** (FIN-001): 1/2 hired | 1 still needed
+       → CA Rahul Madaan [8.8/10] — Only viable finance option. Contact TODAY.
+  🟡 **RPA Developer** (RPA-001): 0/2 hired | 2 still needed
+       → Kamal [7.8/10] — UiPath Orchestrator expert. Contact this week.
+       → Anshul Vashisth [8.8/10] — SAP FICO integration expert. Contact Week 2.
+  🟡 **Chief Digital Revenue Officer** (DRO-001): 0/1 hired | 1 still needed
+       → Kuwarjeet Sidana [9.5/10] — Only candidate, NO BACKUP. Must close this week.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACTIVE CANDIDATES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name                      Position     Status        Score        Offer        Start
+------------------------------------------------------------------------------------
+Jatin Sachdeva            Sr Finance   ✅ HIRED      7.2/10         4.5L   2026-06-18
+CA Rahul Madaan           Sr Finance   🎯 PRIMARY    8.8/10       42-44L   2026-06-15
+CA Manu Singla            Sr Finance   🔄 BACKUP     8.9/10          TBD          TBD
+CA Jatin Anand            Sr Finance   🔄 BACKUP     8.5/10          TBD          TBD
+CA Kapil Sharma           Sr Finance   🔄 BACKUP     7.8/10          TBD          TBD
+Ritu Arora                Sr Finance   🔄 BACKUP     8.2/10          TBD          TBD
+Shukla Satia              Sr Finance   🔄 BACKUP     7.8/10          TBD          TBD
+Kamal                     RPA Develop  🎯 PRIMARY    7.8/10         6.6L   2026-07-01
+Anshul Vashisth           RPA Develop  🎯 PRIMARY    8.8/10 6L + 2-3L training   2026-07-01
+Shahe Faisal              RPA Develop  💡 OPTIONAL   8.5/10       13-15L   2026-07-01
+Kuwarjeet Sidana          Chief Digit  🎯 PRIMARY    9.5/10          28L   2026-06-15
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACTION ITEMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  **ONGOING**
+    • Confirm onboarding for Jatin Sachdeva (June 18)
+    • Prepare counter-offers for RPA candidates (competing offers exist)
+
+  **TODAY/TOMORROW**
+    • Contact CA Rahul Madaan (Finance) - rahulmadaan942@gmail.com / 9873060422
+    • Contact Kuwarjeet Sidana (DRO) - kuwarjeetsingh18@gmail.com / 8800100021
+
+  **THIS WEEK (May 20-21)**
+    • Contact Kamal via GIST (Hemant Kulasri) for RPA #1
+
+  **WEEK 2 (May 27-28)**
+    • Contact Anshul Vashisth for RPA #2
+    • Approve SAP training budget (2-3L) for Anshul
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Data last manually updated: 2026-05-19
+Next automated report: Tomorrow 10:00 AM IST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "org": "Moolchand Healthcare Group",
+    "hiring_manager": "Vibhu Talwar",
+    "last_updated": "2026-05-19"
+  },
+  "positions": {
+    "FIN-001": {
+      "title": "Sr Finance Manager / Finance & AR Lead",
+      "target": 2,
+      "hired": 1
+    },
+    "RPA-001": {
+      "title": "RPA Developer",
+      "target": 2,
+      "hired": 0
+    },
+    "DRO-001": {
+      "title": "Chief Digital Revenue Officer",
+      "target": 1,
+      "hired": 0
+    }
+  },
+  "candidates": [
+    {
+      "id": "FIN-JAT-001",
+      "name": "Jatin Sachdeva",
+      "position": "FIN-001",
+      "status": "HIRED",
+      "score": 7.2,
+      "offer_ctc": "4.5L",
+      "joining_date": "2026-06-18",
+      "source": "GIST Consulting",
+      "contact": null,
+      "notes": "Confirmed joining June 18, 2026"
+    },
+    {
+      "id": "FIN-RAH-001",
+      "name": "CA Rahul Madaan",
+      "position": "FIN-001",
+      "status": "PRIMARY",
+      "score": 8.8,
+      "current_ctc": "35L",
+      "target_offer": "42-44L",
+      "notice_days": 30,
+      "est_start": "2026-06-15",
+      "source": "GIST Consulting",
+      "contact": {"email": "rahulmadaan942@gmail.com", "phone": "9873060422"},
+      "location": "Faridabad",
+      "notes": "Only viable finance option. Contact TODAY."
+    },
+    {
+      "id": "FIN-ABH-001",
+      "name": "CA Abhishek Goyal",
+      "position": "FIN-001",
+      "status": "DECLINED",
+      "score": 9.3,
+      "notes": "Declined offer despite highest score"
+    },
+    {
+      "id": "FIN-VIK-001",
+      "name": "Vikas Jain",
+      "position": "FIN-001",
+      "status": "REJECTED",
+      "score": 7.5,
+      "notes": "Rejected - SAP inexperience, weak AR/C2C skills"
+    },
+    {
+      "id": "FIN-MAN-001",
+      "name": "CA Manu Singla",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.9,
+      "notes": "Too junior - 3 years experience"
+    },
+    {
+      "id": "FIN-JAT-002",
+      "name": "CA Jatin Anand",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.5,
+      "notes": "6 years experience"
+    },
+    {
+      "id": "FIN-KAP-001",
+      "name": "CA Kapil Sharma",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 7.8,
+      "notes": "7 years experience"
+    },
+    {
+      "id": "FIN-RIT-001",
+      "name": "Ritu Arora",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 8.2,
+      "notes": "7 years, high CTC 31.67L"
+    },
+    {
+      "id": "FIN-SHU-001",
+      "name": "Shukla Satia",
+      "position": "FIN-001",
+      "status": "BACKUP",
+      "score": 7.8,
+      "notes": "6 years experience"
+    },
+    {
+      "id": "RPA-RIT-001",
+      "name": "Ritik Gupta",
+      "position": "RPA-001",
+      "status": "BACKED_OUT",
+      "score": 8.8,
+      "notes": "Was confirmed hired; withdrew after acceptance"
+    },
+    {
+      "id": "RPA-KAM-001",
+      "name": "Kamal",
+      "position": "RPA-001",
+      "status": "PRIMARY",
+      "score": 7.8,
+      "current_ctc": "6.6L",
+      "target_offer": "6.6L",
+      "notice_days": 90,
+      "est_start": "2026-07-01",
+      "source": "GIST Consulting",
+      "contact": {"phone": "Via GIST - Hemant Kulasri"},
+      "notes": "UiPath Orchestrator expert. Contact this week."
+    },
+    {
+      "id": "RPA-ANS-001",
+      "name": "Anshul Vashisth",
+      "position": "RPA-001",
+      "status": "PRIMARY",
+      "score": 8.8,
+      "current_ctc": "6L",
+      "target_offer": "6L + 2-3L training",
+      "notice_days": 0,
+      "est_start": "2026-07-01",
+      "source": "Internal",
+      "contact": null,
+      "notes": "SAP FICO integration expert. Contact Week 2."
+    },
+    {
+      "id": "RPA-SHA-001",
+      "name": "Shahe Faisal",
+      "position": "RPA-001",
+      "status": "OPTIONAL",
+      "score": 8.5,
+      "current_ctc": "7L",
+      "target_offer": "13-15L",
+      "notice_days": 15,
+      "est_start": "2026-07-01",
+      "source": "PDF (May 18)",
+      "notes": "Premium tier. Competing: Cognizant 13L, TCS 13L. Budget approval needed."
+    },
+    {
+      "id": "RPA-SUB-001",
+      "name": "Subrat",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "score": null,
+      "notes": "Tier 3 - DO NOT SEND - Limited enterprise experience"
+    },
+    {
+      "id": "RPA-JAS-001",
+      "name": "Jasmin Bar",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "score": null,
+      "notes": "Tier 3 - DO NOT SEND - Limited enterprise experience"
+    },
+    {
+      "id": "RPA-HAR-001",
+      "name": "Hardik Agarwal",
+      "position": "RPA-001",
+      "status": "EXCLUDED",
+      "score": null,
+      "notes": "Junior - mentorship-pair only"
+    },
+    {
+      "id": "DRO-KUW-001",
+      "name": "Kuwarjeet Sidana",
+      "position": "DRO-001",
+      "status": "PRIMARY",
+      "score": 9.5,
+      "current_ctc": "23L",
+      "target_offer": "28L",
+      "notice_days": 30,
+      "est_start": "2026-06-15",
+      "source": "GIST Consulting",
+      "contact": {"email": "kuwarjeetsingh18@gmail.com", "phone": "8800100021"},
+      "location": "Delhi",
+      "notes": "Only candidate, NO BACKUP. Must close this week."
+    }
+  ],
+  "daily_actions": {
+    "priority_1": {
+      "label": "TODAY/TOMORROW",
+      "items": [
+        "Contact CA Rahul Madaan (Finance) - rahulmadaan942@gmail.com / 9873060422",
+        "Contact Kuwarjeet Sidana (DRO) - kuwarjeetsingh18@gmail.com / 8800100021"
+      ]
+    },
+    "priority_2": {
+      "label": "THIS WEEK (May 20-21)",
+      "items": [
+        "Contact Kamal via GIST (Hemant Kulasri) for RPA #1"
+      ]
+    },
+    "priority_3": {
+      "label": "WEEK 2 (May 27-28)",
+      "items": [
+        "Contact Anshul Vashisth for RPA #2",
+        "Approve SAP training budget (2-3L) for Anshul"
+      ]
+    },
+    "ongoing": {
+      "label": "ONGOING",
+      "items": [
+        "Confirm onboarding for Jatin Sachdeva (June 18)",
+        "Prepare counter-offers for RPA candidates (competing offers exist)"
+      ]
+    }
+  }
+}
