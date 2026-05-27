@@ -1,0 +1,41 @@
+name: Daily Candidate Pipeline Status (10 AM IST)
+
+on:
+  schedule:
+    # 10:00 AM IST = 04:30 UTC
+    - cron: '30 4 * * *'
+  workflow_dispatch:  # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-report:
+    name: Generate Pipeline Status Report
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: claude/vigilant-ritchie-KtTMV
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate daily pipeline report
+        run: python daily_report.py
+
+      - name: Commit and push report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add DAILY_STATUS.md pipeline_status_*.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily pipeline status update $(date +'%Y-%m-%d')"
+            git push origin claude/vigilant-ritchie-KtTMV
+          fi
