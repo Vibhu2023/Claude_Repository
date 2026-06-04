@@ -1,5 +1,5 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** June 4, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
 
@@ -140,7 +140,7 @@
 
 ## Critical Actions Dashboard
 
-### PRIORITY 1 - TODAY/TOMORROW
+### PRIORITY 1 - TODAY (June 4)
 **Contact:** CA Rahul Madaan (Finance)
 - **Email:** rahulmadaan942@gmail.com
 - **Phone:** 9873060422
@@ -148,7 +148,7 @@
 - **Reason:** Only viable Finance option after Abhishek declined and Vikas rejected
 - **Timeline:** Contact TODAY
 
-### PRIORITY 2 - THIS WEEK (May 19-21)
+### PRIORITY 2 - THIS WEEK (June 4-6)
 **Contact:** Kuwarjeet Sidana (DRO)
 - **Email:** kuwarjeetsingh18@gmail.com
 - **Phone:** 8800100021
@@ -156,14 +156,14 @@
 - **Reason:** Only candidate, no backup available
 - **Timeline:** Contact TODAY/TOMORROW
 
-### PRIORITY 3 - THIS WEEK (May 20-21)
+### PRIORITY 3 - THIS WEEK (June 4-6)
 **Contact:** Kamal (RPA Primary #1)
 - **Contact Method:** Via GIST - Hemant Kulasri
 - **Offer:** ₹6.6L | Negotiate 90→60 days notice
 - **Reason:** Enterprise orchestration expertise
 - **Timeline:** Contact THIS WEEK
 
-### PRIORITY 4 - WEEK 2 (May 27-28)
+### PRIORITY 4 - THIS WEEK (June 5-6)
 **Contact:** Anshul Vashisth (RPA Primary #2)
 - **Contact Method:** From resume
 - **Offer:** ₹6L + ₹2-3L SAP training budget
@@ -266,16 +266,16 @@
 ## Hiring Timeline
 
 ```
-May 19-20    → Contact Rahul (Finance), Kuwarjeet (DRO)
-May 20-21    → Outreach Kamal (RPA #1)
-May 27-28    → Contact Anshul (RPA #2)
-June 18      → Jatin Sachdeva joins (Finance)
+June 4       → Close offer: Rahul (Finance), Kuwarjeet (DRO)
+June 4-6     → Follow up: Kamal (RPA #1) via GIST
+June 5-6     → Send offer: Anshul Vashisth (RPA #2)
+June 18      → Jatin Sachdeva joins (Finance) ← 14 days away
 June 15-30   → Kuwarjeet joins (DRO)
 July 2026    → Kamal + Anshul expected start (RPA)
 ```
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** June 4, 2026  
+**Next Review:** June 11, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
