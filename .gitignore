@@ -6,3 +6,4 @@ __pycache__/
 dist/
 build/
 .venv/
+status_reports/*.log
