@@ -1,7 +1,34 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last Updated:** June 8, 2026 (10:00 AM)  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## Daily Status Update — June 8, 2026
+
+| Position | Candidate | Status | Next Action | Days to Deadline |
+|----------|-----------|--------|-------------|-----------------|
+| Finance (FIN-001) | Jatin Sachdeva | ✅ HIRED — Joining June 18 | Confirm onboarding logistics | 10 days |
+| Finance (FIN-001) | CA Rahul Madaan | 🔄 Outreach initiated May 19 — **Awaiting response/offer confirmation** | Follow up if no response | URGENT |
+| RPA (RPA-001) #1 | Kamal | 🔄 Outreach via GIST (May 20-21) — **Awaiting status** | Confirm offer ₹6.6L & notice negotiation | URGENT |
+| RPA (RPA-001) #2 | Anshul Vashisth | 🔄 Contacted Week 2 (May 27-28) — **Awaiting response** | Confirm offer ₹6L + ₹2-3L training | URGENT |
+| DRO (DRO-001) | Kuwarjeet Sidana | 🔄 Outreach initiated May 19 — **Expected join June 15-30** | Confirm joining date & docs | 7–22 days |
+
+### Today's Priority Actions
+1. **Jatin Sachdeva (Finance):** Confirm Day 1 logistics, system access, and onboarding checklist for June 18 join.
+2. **Rahul Madaan (Finance):** If no update received — call 9873060422 / email rahulmadaan942@gmail.com. Confirm ₹42-44L offer.
+3. **Kuwarjeet Sidana (DRO):** Call 8800100021 / email kuwarjeetsingh18@gmail.com. Lock in June 15-30 joining date.
+4. **Kamal (RPA #1):** Check with GIST / Hemant Kulasri — confirm ₹6.6L offer & negotiated notice (60 days from 90).
+5. **Anshul Vashisth (RPA #2):** Confirm ₹6L offer + SAP training budget approval (₹2-3L).
+
+### Upcoming Milestones
+```
+June 15-30   → Kuwarjeet Sidana joins (DRO) — IMMINENT
+June 18      → Jatin Sachdeva joins (Finance) — 10 days away
+July 2026    → Kamal + Anshul expected start (RPA)
+```
 
 ---
 
@@ -276,6 +303,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** June 8, 2026  
+**Next Review:** June 9, 2026 @ 10:00 AM (Daily Pipeline Review)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
