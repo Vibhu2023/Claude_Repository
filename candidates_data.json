@@ -1,0 +1,315 @@
+{
+  "last_updated": "2026-05-19",
+  "hiring_manager": "Vibhu Talwar",
+  "organization": "Moolchand Healthcare Group",
+  "positions": [
+    {
+      "id": "FIN-001",
+      "title": "Sr Finance Manager / Finance & AR Lead",
+      "target_headcount": 2,
+      "hired_count": 1,
+      "urgency": "URGENT",
+      "candidates": [
+        {
+          "id": "FIN-JAT-001",
+          "name": "Jatin Sachdeva",
+          "status": "Hired",
+          "score": 7.2,
+          "source": "GIST Consulting",
+          "offer_ctc": "4.5L",
+          "joining_date": "2026-06-18",
+          "experience_years": 4,
+          "location": null,
+          "email": null,
+          "phone": null,
+          "notice_days": null,
+          "skills": ["General Accounting"],
+          "notes": "Confirmed joining June 18, 2026"
+        },
+        {
+          "id": "FIN-RAH-001",
+          "name": "CA Rahul Madaan",
+          "status": "Primary",
+          "score": 8.8,
+          "source": "GIST Consulting",
+          "current_ctc": "35L",
+          "target_offer": "42-44L",
+          "experience_years": 8,
+          "location": "Faridabad",
+          "email": "rahulmadaan942@gmail.com",
+          "phone": "9873060422",
+          "notice_days": 30,
+          "estimated_start": "Mid-June 2026",
+          "skills": ["C2C", "AR", "SAP", "Tally", "Advanced Excel"],
+          "certifications": ["CA (3rd attempt)"],
+          "red_flags": "None",
+          "priority": 1,
+          "action": "CONTACT TODAY - ONLY viable option after rejections",
+          "notes": "Best finance candidate available"
+        },
+        {
+          "id": "FIN-ABH-001",
+          "name": "CA Abhishek Goyal",
+          "status": "Rejected",
+          "score": 9.3,
+          "rejection_reason": "Declined offer despite highest score",
+          "notes": "Candidate chose not to proceed"
+        },
+        {
+          "id": "FIN-VIK-001",
+          "name": "Vikas Jain",
+          "status": "Rejected",
+          "score": 7.5,
+          "rejection_reason": "SAP inexperience + weak AR/C2C skills",
+          "notes": "Had 5.5 yrs Indira IVF healthcare domain but rejected for skill gaps"
+        },
+        {
+          "id": "FIN-MAN-001",
+          "name": "CA Manu Singla",
+          "status": "Backup",
+          "score": 8.9,
+          "experience_years": 3,
+          "notes": "Too junior (3 years); strong score but below experience threshold"
+        },
+        {
+          "id": "FIN-JAT-002",
+          "name": "CA Jatin Anand",
+          "status": "Backup",
+          "score": 8.5,
+          "experience_years": 6,
+          "notes": "6 years experience; viable backup"
+        },
+        {
+          "id": "FIN-KAP-001",
+          "name": "CA Kapil Sharma",
+          "status": "Backup",
+          "score": 7.8,
+          "experience_years": 7,
+          "notes": "7 years experience"
+        },
+        {
+          "id": "FIN-RIT-001",
+          "name": "Ritu Arora",
+          "status": "Backup",
+          "score": 8.2,
+          "experience_years": 7,
+          "current_ctc": "31.67L",
+          "notes": "High CTC ask; 7 years experience"
+        },
+        {
+          "id": "FIN-SHU-001",
+          "name": "Shukla Satia",
+          "status": "Backup",
+          "score": 7.8,
+          "experience_years": 6,
+          "notes": "6 years experience"
+        }
+      ]
+    },
+    {
+      "id": "RPA-001",
+      "title": "RPA Developer",
+      "target_headcount": 2,
+      "hired_count": 0,
+      "urgency": "CRITICAL",
+      "candidates": [
+        {
+          "id": "RPA-RIT-001",
+          "name": "Ritik Gupta",
+          "status": "Backed Out",
+          "score": 8.8,
+          "notes": "Was confirmed hired; withdrew offer after acceptance. Team at 0 developers."
+        },
+        {
+          "id": "RPA-KAM-001",
+          "name": "Kamal",
+          "status": "Primary",
+          "score": 7.8,
+          "source": "GIST Consulting",
+          "current_ctc": "6.6L",
+          "target_offer": "6.6L",
+          "experience_years": null,
+          "location": null,
+          "email": null,
+          "phone": null,
+          "contact_via": "GIST - Hemant Kulasri",
+          "notice_days": 90,
+          "notice_negotiate_to": 60,
+          "estimated_start": "July 2026",
+          "skills": ["UiPath Orchestrator", "Enterprise bot scaling"],
+          "skill_scores": {"UiPath Orchestrator": "5/5", "UiPath": "4.5/5"},
+          "priority": 3,
+          "action": "CONTACT THIS WEEK via GIST",
+          "notes": "Enterprise orchestration expertise"
+        },
+        {
+          "id": "RPA-ANS-001",
+          "name": "Anshul Vashisth",
+          "status": "Primary",
+          "score": 8.8,
+          "source": "Internal",
+          "current_ctc": "6L",
+          "target_offer": "6L",
+          "training_budget": "2-3L SAP training",
+          "notice_days": 0,
+          "estimated_start": "July 2026",
+          "skills": ["SAP FICO integration", "UiPath", "Enterprise automation"],
+          "critical_advantage": "SAP expertise - Moolchand uses SAP HANA",
+          "priority": 4,
+          "action": "CONTACT WEEK 2",
+          "notes": "SAP FICO integration critical for HANA deployment"
+        },
+        {
+          "id": "RPA-SHA-001",
+          "name": "Shahe Faisal",
+          "status": "Optional",
+          "score": 8.5,
+          "source": "PDF (May 18)",
+          "current_employer": "Capgemini (Rising Star)",
+          "ctc_ask": "7L",
+          "market_rate": "13-15L",
+          "notice_days": 15,
+          "skills": ["Agentic AI", "REFramework", "UiPath", "SAP"],
+          "skill_scores": {"Agentic AI": "4/5", "REFramework": "4.5/5", "UiPath": "4.5/5", "SAP": "3.5/5"},
+          "competing_offers": ["Cognizant 13L", "TCS 13L"],
+          "notes": "Premium tier option if budget approved for 15L"
+        },
+        {
+          "id": "RPA-SUB-001",
+          "name": "Subrat",
+          "status": "Excluded",
+          "notes": "Limited enterprise experience - Do Not Send"
+        },
+        {
+          "id": "RPA-JAS-001",
+          "name": "Jasmin Bar",
+          "status": "Excluded",
+          "notes": "Limited enterprise experience - Do Not Send"
+        },
+        {
+          "id": "RPA-HAR-001",
+          "name": "Hardik Agarwal",
+          "status": "Excluded",
+          "notes": "Junior - mentorship-pair only"
+        }
+      ]
+    },
+    {
+      "id": "DRO-001",
+      "title": "Chief Digital Revenue Officer",
+      "target_headcount": 1,
+      "hired_count": 0,
+      "urgency": "CRITICAL - NO BACKUP",
+      "candidates": [
+        {
+          "id": "DRO-KUW-001",
+          "name": "Kuwarjeet Sidana",
+          "status": "Primary",
+          "score": 9.5,
+          "source": "GIST Consulting",
+          "current_ctc": "23L",
+          "target_offer": "28L",
+          "experience_years": 10,
+          "location": "Delhi",
+          "email": "kuwarjeetsingh18@gmail.com",
+          "phone": "8800100021",
+          "notice_days": 30,
+          "estimated_start": "June 15-30, 2026",
+          "previous_employers": ["Fortis Healthcare", "Glamyo Health", "Pickrr", "Shyplite"],
+          "healthcare_experience_years": 3.5,
+          "skills": ["AI SEO", "AEO", "GEO", "Programmatic SEO", "MoEngage", "Power BI", "GenAI chatbots"],
+          "key_achievement": "130+ Cr digital-led revenue at Fortis | 1.5-1.7M monthly sessions | 12% conversion improvement",
+          "priority": 2,
+          "action": "INTERVIEW THIS WEEK - Offer 28L",
+          "risk": "NO BACKUP candidate available - MUST close this week",
+          "notes": "Exceptional candidate; zero backup risk"
+        }
+      ]
+    }
+  ],
+  "additional_candidates": [
+    {
+      "id": "FIN-ON-HOLD-001",
+      "name": "Rajeev Rana",
+      "position_id": "FIN-001",
+      "status": "On Hold"
+    },
+    {
+      "id": "FIN-ON-HOLD-002",
+      "name": "CA Bharat Singh",
+      "position_id": "FIN-001",
+      "status": "On Hold"
+    },
+    {
+      "id": "FIN-EXCL-001",
+      "name": "CA Bharat Sharma",
+      "position_id": "FIN-001",
+      "status": "Excluded",
+      "reason": "Exceeds 6-10yr experience ceiling"
+    },
+    {
+      "id": "FIN-EXCL-002",
+      "name": "CA Abhinav Jain",
+      "position_id": "FIN-001",
+      "status": "Excluded",
+      "reason": "Exceeds 6-10yr experience ceiling"
+    },
+    {
+      "id": "FIN-REJ-001",
+      "name": "Harit Kumar",
+      "position_id": "FIN-001",
+      "status": "Rejected"
+    },
+    {
+      "id": "FIN-REJ-002",
+      "name": "Upasana Gautam",
+      "position_id": "FIN-001",
+      "status": "Rejected"
+    },
+    {
+      "id": "FIN-REJ-003",
+      "name": "Pragati Kumari",
+      "position_id": "FIN-001",
+      "status": "Rejected"
+    },
+    {
+      "id": "FIN-REJ-004",
+      "name": "V. Mohan Reddy",
+      "position_id": "FIN-001",
+      "status": "Rejected"
+    },
+    {
+      "id": "FIN-REJ-005",
+      "name": "Shyam Sagar",
+      "position_id": "FIN-001",
+      "status": "Rejected"
+    },
+    {
+      "id": "FIN-WIT-001",
+      "name": "Shivani Jain",
+      "position_id": "FIN-001",
+      "status": "Withdrawn"
+    }
+  ],
+  "cost_summary": {
+    "committed": [
+      {"name": "Jatin Sachdeva", "position": "Finance", "ctc": "4.5L", "status": "Hired"}
+    ],
+    "estimated": [
+      {"name": "Rahul Madaan", "position": "Finance", "ctc": "42-44L"},
+      {"name": "Kamal", "position": "RPA #1", "ctc": "6.6L"},
+      {"name": "Anshul Vashisth", "position": "RPA #2", "ctc": "6L + 2-3L training"},
+      {"name": "Kuwarjeet Sidana", "position": "DRO", "ctc": "28L"}
+    ],
+    "total_estimated": "89-91L",
+    "premium_scenario_addition": "Shahe Faisal - 13-15L (replaces Kamal or Anshul)"
+  },
+  "hiring_timeline": {
+    "May 19-20": "Contact Rahul (Finance), Kuwarjeet (DRO)",
+    "May 20-21": "Outreach Kamal (RPA #1)",
+    "May 27-28": "Contact Anshul (RPA #2)",
+    "June 18": "Jatin Sachdeva joins (Finance)",
+    "June 15-30": "Kuwarjeet joins (DRO)",
+    "July 2026": "Kamal + Anshul expected start (RPA)"
+  }
+}
