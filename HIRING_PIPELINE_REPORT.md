@@ -31,7 +31,7 @@
   - Source: GIST Consulting
   - Offer: ₹4.5L | Joining: **June 18, 2026** ✓
   - Experience: 4 years general accounting
-  - Status: **CONFIRMED**
+  - Status: **CONFIRMED — JOINED June 18, 2026** ✅
 
 #### PRIMARY (Contact Immediately)
 - **CA Rahul Madaan** (FIN-RAH-001) - Score: 8.8/10 ⭐
@@ -276,6 +276,20 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** June 22, 2026  
+**Next Review:** June 23, 2026 (Daily 10 AM update)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Status Update — June 22, 2026
+
+| Event | Detail |
+|-------|--------|
+| ✅ Jatin Sachdeva joined | June 18 (4 days ago) — Finance seat 1 filled |
+| 🟠 Kuwarjeet Sidana start | June 30 — 8 days away — DRO offer must close NOW |
+| 🟠 Kamal + Anshul start | July 1 — 9 days away — RPA both primaries need confirmation |
+| 🔴 Rahul Madaan | Finance seat 2 — still open — contact immediately |
+
+> **Daily status reports** are now generated each morning by `daily_pipeline_status.py`.
+> See `DAILY_PIPELINE_STATUS.md` for today's live view.
