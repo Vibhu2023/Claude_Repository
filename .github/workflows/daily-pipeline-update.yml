@@ -1,0 +1,39 @@
+name: Daily Pipeline Status Update
+
+on:
+  schedule:
+    # 10:00 AM IST = 04:30 AM UTC
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate daily pipeline status
+        run: python pipeline_status.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add DAILY_STATUS.md STATUS_HISTORY.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit — status already up to date."
+          else
+            git commit -m "chore: daily pipeline status update $(date -u '+%Y-%m-%d 04:30 UTC / 10:00 IST')"
+            git push
+          fi
