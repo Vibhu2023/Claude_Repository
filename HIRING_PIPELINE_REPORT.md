@@ -1,7 +1,22 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last Updated:** June 29, 2026 (Daily Auto-Update)  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## Daily Status Update — June 29, 2026
+
+| Position | Candidate | Expected Start | Status |
+|----------|-----------|---------------|--------|
+| Finance / AR Lead | Jatin Sachdeva | June 18, 2026 | JOINING DATE PASSED — Confirm onboarding |
+| Finance / AR Lead | CA Rahul Madaan | Mid-June 2026 | OVERDUE — Contact immediately |
+| Chief DRO | Kuwarjeet Sidana | June 15-30, 2026 | IN JOINING WINDOW — Follow up today |
+| RPA Developer #1 | Kamal | July 2026 | On track — Verify notice period status |
+| RPA Developer #2 | Anshul Vashisth | July 2026 | On track — Confirm offer acceptance |
+
+> **Action Required:** Jatin's joining date was June 18 (11 days ago). CA Rahul Madaan outreach was due May 19 (40+ days overdue). Kuwarjeet's joining window closes June 30.
 
 ---
 
@@ -17,7 +32,7 @@
 | **Rejected/Excluded** | 8 |
 | **Cost Estimate (Remaining 4)** | ₹89-91L |
 
-**Overall Status:** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+**Overall Status:** CRITICAL - Jatin joining date passed (June 18). Kuwarjeet's window closes June 30. Rahul follow-up overdue by 40+ days.
 
 ---
 
@@ -38,12 +53,12 @@
   - Source: GIST Consulting
   - Current CTC: ₹35L | Target Offer: ₹42-44L
   - Experience: 8 years (ECSO Global, CarDekho, BDO, Mazars)
-  - Notice Period: 30 days | Est. Start: Mid-June
+  - Notice Period: 30 days | Est. Start: Mid-June (OVERDUE — 40+ days since original contact date)
   - **Email:** rahulmadaan942@gmail.com | **Phone:** 9873060422
   - Location: Faridabad
   - Core Skills: C2C (4.5/5) | AR (4.5/5) | SAP | Tally | Advanced Excel
   - Certifications: CA (3rd attempt)
-  - **Action:** CONTACT TODAY - ONLY viable option after rejections
+  - **Action:** CONTACT TODAY - ONLY viable option after rejections. No email response found as of June 29.
   - **Red Flag:** None - Best finance candidate available
 
 #### Rejected (Earlier Attempts)
@@ -119,7 +134,7 @@
 - **Kuwarjeet Sidana** (DRO-KUW-001) - Score: 9.5/10 ⭐⭐⭐
   - Source: GIST Consulting
   - Current CTC: ₹23L | Target Offer: ₹28L
-  - Notice Period: 30 days | Est. Start: June 15-30, 2026
+  - Notice Period: 30 days | Est. Start: June 15-30, 2026 (WINDOW CLOSES JUNE 30)
   - **Email:** kuwarjeetsingh18@gmail.com | **Phone:** 8800100021
   - Location: Delhi
   - **Experience:** 10 years total (Fortis Healthcare, Glamyo Health, Pickrr, Shyplite)
@@ -131,7 +146,7 @@
     - Power BI
     - GenAI chatbots
   - **Key Achievement:** 130+ Cr digital-led revenue at Fortis | 1.5-1.7M monthly sessions | 12% conversion improvement
-  - **Action:** INTERVIEW THIS WEEK - Offer ₹28L
+  - **Action:** FOLLOW UP TODAY (June 29) — Expected start window closes June 30. Confirm joining or revised date.
   - **Risk:** NO BACKUP candidate available
 
 **DRO Position Summary:** Exceptional candidate (9.5/10) with healthcare experience. Zero backup risk - must close this week. Recommended offer: ₹28L.
@@ -276,6 +291,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** June 29, 2026 (Daily Auto-Update at 10am IST)  
+**Next Review:** June 30, 2026 (CRITICAL — Kuwarjeet joining window closes)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
