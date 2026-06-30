@@ -1,7 +1,20 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026
+**Last Updated:** June 30, 2026
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 27 (+2 unconfirmed leads — see Pending Verification)
+
+---
+
+## ⚠️ Status Update Notice (June 30, 2026)
+
+This report was generated May 19, 2026 and **received no further updates for 6 weeks** despite a daily 10am reminder to refresh it. No email correspondence with the four PRIMARY candidates (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth) was found in the connected inbox confirming outreach, acceptance, or decline — so the action items below are carried forward **unverified** rather than marked complete. If outreach happened by phone, please confirm so this report can reflect real status rather than the original plan.
+
+Two interview invites from after the report date were found on the calendar but are **not yet reflected** below pending confirmation of role/outcome:
+- **"Suresh | Digital Revenue"** — interview held May 27, 2026. Possible backup candidate for DRO-001 (which currently has a NO BACKUP risk flag), but no further detail (resume, score, contact info) was available to add him as a tracked candidate.
+- **"Raj Seo Candidate"** (guest: rajdigitalexpert.live@gmail.com) — interview held May 20, 2026. Possibly relevant to DRO-001's SEO requirements or a separate role; outcome unknown.
+
+Please advise if these should be added to the pipeline and what their outcomes were.
 
 ---
 
@@ -17,7 +30,7 @@
 | **Rejected/Excluded** | 8 |
 | **Cost Estimate (Remaining 4)** | ₹89-91L |
 
-**Overall Status:** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+**Overall Status:** STALE — Last substantive update May 19, 2026. Confirmed hire: Jatin Sachdeva (Finance, joining June 18, 2026 — **this date has now passed; please confirm whether onboarding actually occurred**). All other PRIMARY candidate outcomes (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth) are unverified since the original "contact this week" instructions.
 
 ---
 
@@ -276,6 +289,7 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Originally Generated:** May 19, 2026
+**Last Updated:** June 30, 2026 — no confirmed status changes since generation; see Status Update Notice above
+**Next Review:** July 1, 2026 (daily review — please confirm candidate outcomes so future updates reflect real status)
 **Report Generated For:** Vibhu Talwar, Hiring Manager
