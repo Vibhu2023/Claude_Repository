@@ -1,7 +1,23 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026 (Last daily check: July 1, 2026)
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## Daily Status Check — July 1, 2026
+
+No candidate emails (offer replies, GIST Consulting updates, or onboarding confirmations) were found in Gmail since this report was generated on May 19. Two milestones from that report have now passed without a confirmation on file:
+
+| Item | Expected | Status as of July 1 |
+|------|----------|----------------------|
+| Kuwarjeet Sidana (DRO) joining window | June 15-30, 2026 | **OVERDUE** — window closed, no confirmation found. No backup candidate exists for this role. |
+| Jatin Sachdeva (Finance) joining date | June 18, 2026 | Marked HIRED/CONFIRMED in the May 19 report; recommend a quick onboarding check since the date has passed. |
+| Rahul Madaan (Finance), Kamal (RPA #1), Anshul Vashisth (RPA #2) | Ongoing outreach (May 20 - Week 2) | No status change found — still shown as PRIMARY/uncontacted-confirmed in the last report. |
+
+**Action needed:** Manually confirm Kuwarjeet's status this week — this is the highest-risk open item (sole candidate, no backup, target window has closed).
+
+Run `python3 daily_pipeline_status.py` for a machine-readable version of this check.
 
 ---
 
