@@ -5,6 +5,26 @@
 
 ---
 
+## Daily Status Update — July 4, 2026
+
+Checked Gmail and Google Calendar for any new candidate activity since this report was generated. No email confirmations or calendar events were found for the five primary candidates below since May 19, despite several of their target dates having already passed. Flagging for direct follow-up:
+
+| Candidate | Position | Tracked Milestone | Status as of Jul 4 |
+|-----------|----------|--------------------|---------------------|
+| Jatin Sachdeva | Finance | Joining June 18, 2026 | **Date passed — no onboarding confirmation found in mailbox/calendar** |
+| Kuwarjeet Sidana | DRO | Start June 15-30, 2026 | **Window passed — no closure confirmation found**; had a 2nd-round interview May 21 (meet.google.com/zut-srmf-dpa, organized by GIST/Hemant Kulasri) |
+| CA Rahul Madaan | Finance | Offer ₹42-44L, acceptance pending | No acceptance/decline email found since May 19 |
+| Kamal | RPA #1 | Offer ₹6.6L, notice negotiation | No update found since May 19 |
+| Anshul Vashisth | RPA #2 | Offer ₹6L + training, start confirmation | No update found since May 19 |
+
+**New development not yet reflected in the sections below:** A new candidate, **Suresh**, was interviewed for the Digital Revenue Officer role on May 27, 2026 (calendar event "Suresh | Digital Revenue", organizer moolchandhospital@gmail.com). This contradicts the "NO BACKUP" risk flag on the DRO position in this report — Suresh should be evaluated as a potential backup to Kuwarjeet.
+
+**Also noted:** Gunisha Steefan (Senior Manager - TA HR, who ran outreach for several of these roles) submitted her resignation on May 14, 2026. A "Stuti | TA | Interview" was held May 27, 2026, likely to backfill this recruiting function — worth confirming who now owns candidate follow-up.
+
+No other candidate-specific interview invites, offer emails, or joining confirmations were found in Gmail or Calendar between May 19 and July 4. The detailed sections below reflect the last confirmed data (May 19) and have not been changed pending direct confirmation from the hiring manager.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
