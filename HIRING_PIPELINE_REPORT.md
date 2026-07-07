@@ -1,7 +1,18 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last Daily Check:** July 7, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## Daily Status Check Log
+
+Automated daily review (10am IST) of Gmail and Calendar for candidate activity since the report baseline (May 19, 2026).
+
+| Date Checked | Findings |
+|--------------|----------|
+| **2026-07-07** | Confirmed via calendar record: **Kuwarjeet Sidana (DRO)** interview took place **May 21, 2026, 1:00–1:15pm IST** (Google Meet, organized by Hemant Kulasri/GIST) — see updated DRO section below. No outcome/decision recorded since. **No email correspondence found** since May 19 from/to Rahul Madaan, Kuwarjeet Sidana, or Hemant Kulasri (GIST) — outreach/negotiation status cannot be confirmed from available records. **Two target dates have now elapsed with no confirmation on file:** Jatin Sachdeva's June 18 joining (Finance) and Kuwarjeet's mid-June-to-June 30 start (DRO). Kamal and Anshul Vashisth (RPA) show no recorded contact at all. **Recommend manual status confirmation from the hiring manager** — this is the first substantive finding since the report was generated; prior daily reminders (Jun 3–Jul 6) produced no actionable email/calendar signal. |
 
 ---
 
@@ -113,10 +124,11 @@
 ---
 
 ### 3. Chief Digital Revenue Officer (DRO-001)
-**Target:** 1 position | **Candidates:** 1 | **Status:** PRIMARY - NO BACKUP
+**Target:** 1 position | **Candidates:** 1 | **Status:** PRIMARY - NO BACKUP - INTERVIEW COMPLETED, DECISION PENDING
 
 #### PRIMARY - ONLY CANDIDATE
 - **Kuwarjeet Sidana** (DRO-KUW-001) - Score: 9.5/10 ⭐⭐⭐
+  - **Update (Jul 7):** Interview held **May 21, 2026** via Google Meet (organizer: Hemant Kulasri, GIST). No decision/offer outcome on record since — needs manual follow-up.
   - Source: GIST Consulting
   - Current CTC: ₹23L | Target Offer: ₹28L
   - Notice Period: 30 days | Est. Start: June 15-30, 2026
@@ -276,6 +288,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** July 7, 2026 (Daily automated check — see Daily Status Check Log)  
+**Next Review:** July 8, 2026, 10am IST (daily)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
