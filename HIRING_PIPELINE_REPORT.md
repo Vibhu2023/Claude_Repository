@@ -276,6 +276,21 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Verified:** May 19, 2026  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Staleness Notice (Automated Daily Check)
+
+This report has not been updated since May 19, 2026. Recurring daily 10am
+reminders have been checking for new candidate status since at least early
+July 2026, but no email correspondence from the named candidates or GIST
+Consulting has been found in this account, and no one has recorded an update
+to this file. All "Contact TODAY / THIS WEEK" actions below are dated May
+2026 and are likely stale by ~2 months.
+
+**Action needed:** verify current status by phone/email with each primary
+candidate and update this report accordingly. Automated daily checks cannot
+confirm real-world hiring status without a data source (email, ATS, etc.)
+showing candidate replies.
