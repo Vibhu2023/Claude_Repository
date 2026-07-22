@@ -1,11 +1,26 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Status Check:** July 22, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
 
 ---
 
-## Executive Summary
+## ⚠️ STALE PIPELINE — NO CONFIRMED ACTIVITY IN 9+ WEEKS
+
+A daily 10am calendar reminder has been firing since June 2 asking to confirm candidate status and update this report — but a check of Gmail and Calendar as of July 22 found **no candidate correspondence of any kind after May 13, 2026** (the last interview-scheduling emails). Specifically:
+
+- No reply, acceptance, or negotiation email from **CA Rahul Madaan** (Finance primary) — was marked "CONTACT TODAY" on May 19.
+- No reply from **Kuwarjeet Sidana** (DRO, only candidate) — was marked "CONTACT TODAY/TOMORROW" on May 19.
+- No correspondence with **Kamal** or **Anshul Vashisth** (RPA primaries) via GIST/Hemant Kulasri.
+- No onboarding confirmation for **Jatin Sachdeva**, whose **June 18 joining date has already passed** with nothing in Gmail/Calendar confirming he actually started.
+- The report file itself has not been edited since the May 19 commit.
+
+In short: every target date in this report (Jatin's June 18 start, Kuwarjeet's June 15-30 start, Kamal/Anshul's July start) has now passed with no evidence any outreach happened. This may mean the hires quietly fell through, or that they closed successfully through a channel (phone/WhatsApp/in-person) not visible here — either way, the data below is **unverified and 9+ weeks old** and should not be treated as current without manual confirmation.
+
+---
+
+## Executive Summary (as of May 19, 2026 — unconfirmed since)
 
 | Metric | Status |
 |--------|--------|
