@@ -5,6 +5,21 @@
 
 ---
 
+## Daily Status Check Log
+
+**Latest check: July 27, 2026 (10 AM IST automated review)**
+
+No new candidate activity found. Checked Gmail (candidate email addresses, GIST Consulting/Hemant Kulasri, subject keywords for interviews/offers) and Google Calendar (candidate names, interview/onboarding keywords) going back to May 19. Findings:
+
+- **No email correspondence on record** with rahulmadaan942@gmail.com or kuwarjeetsingh18@gmail.com (sent or received) — no evidence the "CONTACT TODAY" outreach in this report was ever sent from this inbox.
+- **No interview, offer, or onboarding events** found on the calendar for any of the named candidates.
+- **Key dates have already passed with no confirmation trail:** Jatin Sachdeva's June 18 start date and Kuwarjeet Sidana's June 15–30 window are both now in the past, but nothing in Gmail/Calendar confirms they actually joined.
+- The only daily signal found was a **recurring self-scheduled calendar reminder** ("Hiring Pipeline Daily Status Update") whose description has stayed static since it was created (June 2–8, 2026) and references a `daily_pipeline_status.py` script that does not exist in this repository — it was not run.
+
+**Recommendation:** This report is 2+ months stale. Since no automated data source (email/calendar) confirms candidate movement, status below should be treated as last-known-good from May 19, not current. Manually confirm: (1) whether Jatin Sachdeva and Kuwarjeet Sidana actually joined, (2) whether Rahul Madaan / Kamal / Anshul Vashisth were ever contacted, before relying on the priorities below.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
@@ -276,6 +291,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** May 19, 2026 (content) | July 27, 2026 (daily check — no changes found, see Daily Status Check Log above)  
+**Next Review:** July 28, 2026 (automated daily check)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
