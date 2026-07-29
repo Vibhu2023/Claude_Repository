@@ -5,6 +5,21 @@
 
 ---
 
+## Daily Status Update — July 29, 2026
+
+Checked Gmail and Google Calendar for activity on the primary candidates below. No email correspondence from Rahul Madaan or Kuwarjeet Sidana (or about their offer status) was found since the May 19 report — the recurring 10 AM calendar reminders have been firing daily but nothing shows those two follow-ups were ever closed out.
+
+| Position | Report Status (May 19) | Current Signal | Read |
+|---|---|---|---|
+| Finance (FIN-001) | Jatin Sachdeva HIRED, joining June 18 | No contradicting signal found | Presumed on track |
+| Finance (FIN-001) | Rahul Madaan PRIMARY, offer ₹42-44L | No acceptance/decline email found | **Unconfirmed — needs a direct check** |
+| DRO-001 | Kuwarjeet Sidana ONLY candidate, offer ₹28L, "must close this week" | **Two new DRO interviews scheduled after May 19**: Mit Dhyani (Jul 3) and Rahul Dubey (Aug 3, upcoming) | **Kuwarjeet likely fell through — Moolchand is actively re-sourcing DRO** |
+| RPA-001 | Kamal + Anshul PRIMARY, Ritik backed out | No new correspondence found since early May | Unconfirmed |
+
+**Flag for Vibhu:** The DRO position was marked CRITICAL/no-backup in the original report with instructions to close within the week. Two months later, Moolchand is still interviewing fresh DRO candidates (most recently Rahul Dubey, interview scheduled Mon Aug 3, 2026), which means Kuwarjeet almost certainly did not convert. Recommend a direct check-in on Rahul Madaan's and Kuwarjeet's actual outcomes since no correspondence trail exists for either.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
