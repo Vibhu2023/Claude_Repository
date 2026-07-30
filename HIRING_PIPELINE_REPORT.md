@@ -279,3 +279,18 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Status Check Log
+
+| Date | Result |
+|------|--------|
+| 2026-07-30 | No new candidate data found in connected sources (Gmail, Drive). Data in this report is unchanged since May 19, 2026 (72 days stale). See note below. |
+
+**⚠️ Data Gap Notice (as of 2026-07-30):** This report has no live feed — daily checks only searched the hiring manager's connected Gmail/Drive for updates from GIST Consulting or candidates directly, and found none since the report was generated. All target dates below have now passed without any recorded confirmation:
+- Jatin Sachdeva (Finance) — expected joining June 18, 2026 — **not confirmed**
+- Kuwarjeet Sidana (DRO) — expected start June 15-30, 2026 — **not confirmed**
+- Kamal / Anshul Vashisth (RPA) — expected start July 2026 — **not confirmed**
+
+Recommend manually confirming actual outcomes with GIST Consulting / HR and updating this report, or connecting a live data source (ATS export, recruiter email thread) so future automated checks have something to check against.
