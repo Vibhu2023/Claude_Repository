@@ -279,3 +279,18 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Status Update Log
+
+### August 1, 2026 (Automated Daily Check)
+
+**Method:** Reviewed Gmail for candidate/recruiter correspondence and calendar invites since the May 19 report. No `daily_pipeline_status.py` script exists in this repository (referenced by the recurring 10 AM calendar reminders) and no ATS/spreadsheet data source is connected — this check was done via inbox search only.
+
+**Key finding — DRO position status has changed:**
+- A new interview, **"Rahul Dubey | DRO"**, is scheduled for **Monday, Aug 3, 2026, 12:00–1:00 PM IST**, organized directly by **Moolchand Healthcare** (`moolchandhospital@gmail.com`), with candidate `rdubeyy7@gmail.com` and `mdoffice@moolchandhealthcare.com` (MD's office) as guests.
+- This is a **different candidate than Kuwarjeet Sidana**, who the May 19 report flagged as the sole DRO candidate with "NO BACKUP." No email confirming Kuwarjeet's outcome (offer accepted/declined) was found in this search.
+- **Implication:** Moolchand appears to be sourcing DRO candidates directly (outside the GIST Consulting pipeline used for other roles). Status of Kuwarjeet Sidana should be confirmed before the Aug 3 interview.
+
+**No new status signals found** (via email search) for: CA Rahul Madaan (Finance), Kamal or Anshul Vashisth (RPA), or Jatin Sachdeva's onboarding — recommend confirming these directly, since the daily calendar reminders are static/templated and do not reflect live data.
