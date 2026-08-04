@@ -5,6 +5,24 @@
 
 ---
 
+## Status Check — August 4, 2026
+
+No candidate-side updates were found. Searches of the connected Gmail account and Drive (for Rahul Madaan, Kuwarjeet Sidana, Anshul Vashisth, Jatin Sachdeva, and GIST Consulting/Hemant Kulasri) turned up no correspondence since this report was generated on May 19 — only the recurring 10 AM calendar reminders themselves, going back to June 2. No new file in Drive references the pipeline since May 19 either.
+
+That means every target date below has now passed with no recorded confirmation:
+- **Jatin Sachdeva (Finance, HIRED)** — was due to join June 18. No onboarding confirmation on file.
+- **Kuwarjeet Sidana (DRO)** — target start window June 15–30. No acceptance/decline on file.
+- **Kamal / Anshul Vashisth (RPA #1/#2)** — expected start July 2026. No outreach or offer response on file.
+- **CA Rahul Madaan (Finance)** — no record he was ever contacted after May 19.
+
+This report has not been substantively updated in ~11 weeks despite the daily reminder running the whole time. The figures below (27 candidates, 1 hired, ₹89-91L remaining) reflect May 19 and should not be treated as current. Recommend manually confirming status directly with the candidates/GIST Consulting rather than relying on this automated check, since no data source here can independently verify outcomes.
+
+Separately: two other Gmail automations on this account ("gmail-moolchand-promo-cleanup" and an "Auto-remove Moolchand visitor queries" job) are auto-filing mail matching "Moolchand" to spam/trash. They appear scoped to a `clinic@` sender, not candidate correspondence, but worth a quick check to confirm they aren't catching real recruiting emails.
+
+---
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
