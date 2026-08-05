@@ -1,7 +1,7 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026 | **Last Daily Update:** August 5, 2026  
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 27 (+3 new DRO candidates since May 19)
 
 ---
 
@@ -63,6 +63,7 @@
 5. **Shukla Satia** (FIN-SHU-001) - Score: 7.8/10 (6 years experience)
 
 **Finance Position Summary:** Strong primary candidate in Rahul. If unsuccessful, multiple qualified backups available (all meet 6-10yr requirement except Jatin). Cost manageable at proposed levels.
+**Aug 5 update:** No new emails or calendar activity involving Rahul Madaan or the finance backups found since May 19 — status unconfirmed, follow up directly to verify offer/negotiation progress.
 
 ---
 
@@ -109,13 +110,14 @@
 - **Hardik Agarwal** (RPA-HAR-001) - Junior, mentorship-pair only
 
 **RPA Position Summary:** URGENT - Both primary candidates available with different strengths. Kamal has Orchestrator expertise; Anshul has critical SAP integration skills. Dual-hire strategy recommended. Combined cost: ₹12.6L-15.6L (plus training).
+**Aug 5 update:** No new emails or calendar activity involving Kamal, Anshul, or Shahe Faisal found since May 19 — status unconfirmed, follow up directly (outreach may have occurred by phone via GIST, which wouldn't appear in this mailbox).
 
 ---
 
 ### 3. Chief Digital Revenue Officer (DRO-001)
-**Target:** 1 position | **Candidates:** 1 | **Status:** PRIMARY - NO BACKUP
+**Target:** 1 position | **Candidates:** 4 (as of Aug 5 update) | **Status:** ACTIVE - Backup pool now sourced
 
-#### PRIMARY - ONLY CANDIDATE
+#### ORIGINAL PRIMARY
 - **Kuwarjeet Sidana** (DRO-KUW-001) - Score: 9.5/10 ⭐⭐⭐
   - Source: GIST Consulting
   - Current CTC: ₹23L | Target Offer: ₹28L
@@ -131,10 +133,19 @@
     - Power BI
     - GenAI chatbots
   - **Key Achievement:** 130+ Cr digital-led revenue at Fortis | 1.5-1.7M monthly sessions | 12% conversion improvement
-  - **Action:** INTERVIEW THIS WEEK - Offer ₹28L
-  - **Risk:** NO BACKUP candidate available
+  - **Status as of Aug 5:** No confirmation of offer acceptance found in mailbox/calendar since May. Three additional DRO candidates have since been interviewed (below) — treat as unconfirmed/at-risk pending direct follow-up.
 
-**DRO Position Summary:** Exceptional candidate (9.5/10) with healthcare experience. Zero backup risk - must close this week. Recommended offer: ₹28L.
+#### NEW CANDIDATES SOURCED SINCE MAY 19 (found via calendar interview invites)
+- **Amit Dhyani** — Source: LaGrange Point Consulting (yashiy@lagrangepoint.co.in)
+  - Interview originally scheduled May 20, 2026 — **CANCELED**
+  - Rescheduled and held **July 3, 2026** (12:00-1:00pm IST)
+  - No outcome/feedback note found in mailbox — follow up needed
+- **Rahul Dubey** (rdubeyy7@gmail.com) — Interview held **August 3, 2026** (12:00-1:00pm IST), organized directly by Moolchand Healthcare (moolchandhospital@gmail.com)
+  - No outcome/feedback note found yet — likely too recent
+- **Karan Rohila** — Interview held **August 4, 2026** (3:30-4:00pm IST), organized directly by Moolchand Healthcare
+  - No outcome/feedback note found yet — likely too recent
+
+**DRO Position Summary (updated Aug 5):** The "no backup" risk flagged on May 19 appears to have been actively addressed — 3 new candidates (Dhyani, Dubey, Rohila) were sourced and interviewed between May 20 and Aug 4. Kuwarjeet Sidana's status is unconfirmed (no reply/decline found in mailbox). **Action needed:** confirm directly whether Kuwarjeet accepted/declined and get interview feedback on Dubey and Rohila (most recent, likely still pending decision).
 
 ---
 
@@ -276,6 +287,13 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** August 5, 2026 (automated daily pipeline check — see DRO section for new candidate activity found)  
+**Next Review:** August 6, 2026  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Update Log
+
+### August 5, 2026 — Automated check
+Reviewed Gmail and Google Calendar for hiring-pipeline activity since May 19. Key finding: **DRO-001** saw real movement — 3 new candidates (Amit Dhyani, Rahul Dubey, Karan Rohila) interviewed between May 20 and Aug 4, addressing the "no backup" risk flagged in the original report. Kuwarjeet Sidana's outcome is unconfirmed. No Finance or RPA candidate activity (emails/calendar invites) found in the same window — those sections are unchanged from May 19 and should be verified directly with candidates/GIST Consulting, since phone-based outreach wouldn't show up here.
