@@ -1,7 +1,24 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026 | **Last Daily Check-in:** August 6, 2026  
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 27 (+1 new lead pending intake)
+
+---
+
+## Daily Status Update — August 6, 2026
+
+No email confirmations of candidate status changes (offers signed, joinings, rejections) have been received in the mailbox since this report was generated on May 19, 2026. The figures and candidate statuses below are therefore **unconfirmed for ~11 weeks** and several target dates have already elapsed:
+
+| Item | Report Says | Today (Aug 6) | Action Needed |
+|------|-------------|----------------|----------------|
+| Jatin Sachdeva (Finance) joining | June 18, 2026 | **47 days past** | Confirm onboarding actually completed; update status to Active/Employed or flag no-show |
+| CA Rahul Madaan (Finance) | Contact "TODAY" (May 19), mid-June start | **7+ weeks past target start** | Confirm outcome — hired, declined, or still in process |
+| Kuwarjeet Sidana (DRO) | Close by June 15-30, 2026 | **5-7 weeks past target close** | Confirm outcome — see new lead below, may indicate this closed unsuccessfully |
+| Kamal / Anshul Vashisth (RPA x2) | Expected start July 2026 | **Past expected start** | Confirm whether either/both joined |
+
+**New lead identified (not yet in candidate database):** A calendar invite titled **"Karan Rohila <> DRO"** (organizer: Moolchand Healthcare, moolchandhospital@gmail.com) shows an interview held **Tuesday, Aug 4, 2026, 3:30-4:00 PM IST**. No resume, score, or CTC details are available in mailbox/Drive yet. Given the DRO position previously had **zero backup candidates**, this may indicate Kuwarjeet Sidana's process did not close and a new candidate is being sourced. **Action:** obtain Karan Rohila's resume/scorecard from the recruiter and log as DRO-KAR-001; reconcile against Kuwarjeet Sidana's current status.
+
+**Recommendation:** Treat all "Hired"/"Primary" statuses below as **last-known, not current**, until manually reconfirmed with GIST Consulting and internal HR.
 
 ---
 
@@ -277,5 +294,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 ---
 
 **Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Daily Check-in (no new data found):** August 6, 2026  
+**Next Review:** Next scheduled daily check-in, or as soon as candidate status confirmations are received  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
