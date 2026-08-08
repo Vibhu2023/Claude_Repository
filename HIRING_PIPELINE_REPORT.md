@@ -5,6 +5,23 @@
 
 ---
 
+## Daily Status Check — August 8, 2026
+
+This report has not been updated since May 19, 2026 (~2.5 months). All target start dates below have already passed without any confirmation found in available correspondence:
+
+| Item | Target Date | Status as of Aug 8, 2026 |
+|------|-------------|---------------------------|
+| Jatin Sachdeva (Finance) joining | June 18, 2026 | **Unconfirmed** — no onboarding confirmation found |
+| Kuwarjeet Sidana (DRO) start | June 15-30, 2026 | **Unconfirmed** — no offer response found |
+| CA Rahul Madaan (Finance) | Contact target: May 19 | **Unconfirmed** — no reply found |
+| Kamal / Anshul Vashisth (RPA) start | July 2026 | **Unconfirmed** — no reply found |
+
+**New development — DRO-001:** A new candidate, **Palak** (sourced via GIST), has an interview scheduled for **Wednesday, Aug 12, 2026, 4:30–5:30pm IST** (Google Meet, organized by Moolchand Healthcare). This is the first backup candidate identified for the DRO role since the May 19 report, which flagged Kuwarjeet Sidana as the sole candidate with **no backup** (Risk 3). Recommend tracking this interview and updating Kuwarjeet's status alongside it.
+
+**Data gap:** No Gmail correspondence, ATS export, or other data source was found confirming accept/reject/joining outcomes for any of the primary or backup candidates listed in the May 19 report. This section reflects only what could be verified from available sources today; the detailed candidate data below is unchanged from the original report and should not be assumed current.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
