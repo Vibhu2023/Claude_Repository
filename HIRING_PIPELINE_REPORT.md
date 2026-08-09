@@ -5,6 +5,22 @@
 
 ---
 
+## Status Review — August 9, 2026
+
+This report has not been updated since it was generated on May 19, 2026 (~12 weeks ago), despite a daily 10am automation configured to review it. No connected data source (ATS/HRIS) tracks these candidates — this session checked Gmail and Google Calendar only, and found:
+
+- **No confirmation emails** for the four open offers below. Their target dates have all passed without a recorded outcome in mail:
+  - Jatin Sachdeva (Finance) — was due to join **June 18, 2026**
+  - Kuwarjeet Sidana (DRO) — was due to start **June 15–30, 2026**
+  - Kamal / Anshul Vashisth (RPA) — were expected to start **July 2026**
+  - CA Rahul Madaan (Finance backfill) — no reply/accept-decline found
+- **New signal:** a calendar invite titled **"Palak DRO | GIST"** was sent Aug 7, 2026 for an interview on **Wed Aug 12, 2026, 4:30–5:30pm IST**, sourced via GIST Consulting for the Digital Revenue Officer role. The original report listed Kuwarjeet Sidana as the sole DRO candidate with **no backup**. A new DRO candidate now being interviewed suggests either Kuwarjeet's hire did not close, or Moolchand is building a backup — this needs manual confirmation.
+- **Automation note:** this scheduled task has run repeatedly since May without ever updating this file — each run created a new throwaway branch (56 `claude/vigilant-ritchie-*` branches exist on origin, none merged) rather than committing a real status change. No candidate database exists in this repo for the automation to check against, so it cannot produce genuine daily updates without a real data source (e.g., an ATS/tracker file the user updates, or a connected recruiting inbox to parse).
+
+**Recommended next step:** confirm actual outcomes for the four candidates above directly (they're 6-8 weeks past their target dates), and clarify who "Palak" is interviewing for DRO on Aug 12.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
@@ -276,6 +292,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** May 19, 2026 (data) / August 9, 2026 (status review appended, no new data confirmed)  
+**Next Review:** August 10, 2026  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
