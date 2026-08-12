@@ -5,6 +5,26 @@
 
 ---
 
+## Daily Status Update — August 12, 2026
+
+**This automated daily check found the tracker below has not been updated since May 19** — nearly 3 months. The recurring 10 AM calendar reminder ("Hiring Pipeline - Daily Candidate Status Update") has been firing every day since it was created on June 2 but its checklist was never actioned, and the `daily_pipeline_status.py` script referenced in the reminder does not exist in this repository. There is no ATS or live tracker connected, so this update is based only on what could be reconstructed from Gmail/Calendar signals — it is **not a confirmed status**, just what's inferable.
+
+### DRO-001 (Chief Digital Revenue Officer) — position appears still OPEN
+The May 19 report named **Kuwarjeet Sidana** as the only DRO candidate, with instructions to close "this week." There is no record of that offer being accepted or declined. Instead, Moolchand HR has continued sourcing and interviewing new DRO candidates for months afterward:
+- **mit Dhyani** — interviewed Jul 3, 2026
+- **Rahul Dubey** — interviewed Aug 3, 2026
+- **Karan Rohila** — interviewed Aug 4, 2026
+- **Palak (via GIST)** — interview scheduled **today, Aug 12, 2026, 4:30–5:30 PM IST**
+
+This strongly suggests Kuwarjeet did not close and the DRO seat is still vacant. Needs direct confirmation with Moolchand HR (mdoffice@moolchandhealthcare.com) — the calendar/email trail alone doesn't say why sourcing continued or what happened with Kuwarjeet.
+
+### FIN-001 (Sr Finance Manager) and RPA-001 (RPA Developer) — status unconfirmed
+No emails or calendar events found after May 19 confirming outcomes for CA Rahul Madaan (Finance), Kamal or Anshul Vashisth (RPA), or Jatin Sachdeva's June 18 onboarding. The June 18 joining date has passed with no confirmation logged here.
+
+**Recommendation:** Treat everything below this point as a stale (May 19) snapshot, not current status. A real status check requires asking Moolchand HR directly rather than relying on this automation, since the intended data pipeline was never built.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
