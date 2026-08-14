@@ -1,7 +1,8 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last Reviewed:** August 14, 2026  
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 27+ (see DRO update below — 5 additional DRO candidates surfaced since original report)
 
 ---
 
@@ -113,9 +114,20 @@
 ---
 
 ### 3. Chief Digital Revenue Officer (DRO-001)
-**Target:** 1 position | **Candidates:** 1 | **Status:** PRIMARY - NO BACKUP
+**Target:** 1 position | **Status as of Aug 14, 2026:** STILL OPEN — 3 months past original "close this week" target
 
-#### PRIMARY - ONLY CANDIDATE
+#### ⚠️ STATUS UPDATE (Aug 14, 2026)
+The original report treated Kuwarjeet Sidana as the sole candidate to close immediately. Calendar/email records show that outreach did **not** close with Kuwarjeet — no confirmation, offer-acceptance, or joining correspondence was found for him after May 19. Instead, Moolchand (via a different recruiter, Lagrange Point / yashiy@lagrangepoint.co.in, replacing GIST for this role) interviewed a further wave of DRO candidates:
+
+- **Amit Dhyani** — interview May 20, 2026 (later cancelled/rescheduled)
+- **Suresh Singh** — in-person interview May 20 and May 27, 2026
+- **Prashant Kumar** — interview May 22, 2026 (IIM Calcutta alum)
+- **Yogesh Lodwal** — in-person interview scheduled June 1, 2026 (candidate cancelled: "personal exigency")
+- **Rahul Dubey** — interview held Aug 3, 2026 (most recent activity)
+
+No hire or offer-acceptance email has been found for any DRO candidate (Kuwarjeet or the five above) through Aug 14, 2026.
+
+#### ORIGINAL PRIMARY (status now unconfirmed)
 - **Kuwarjeet Sidana** (DRO-KUW-001) - Score: 9.5/10 ⭐⭐⭐
   - Source: GIST Consulting
   - Current CTC: ₹23L | Target Offer: ₹28L
@@ -131,10 +143,9 @@
     - Power BI
     - GenAI chatbots
   - **Key Achievement:** 130+ Cr digital-led revenue at Fortis | 1.5-1.7M monthly sessions | 12% conversion improvement
-  - **Action:** INTERVIEW THIS WEEK - Offer ₹28L
-  - **Risk:** NO BACKUP candidate available
+  - **Status:** No follow-up correspondence found since May 19 — needs manual confirmation
 
-**DRO Position Summary:** Exceptional candidate (9.5/10) with healthcare experience. Zero backup risk - must close this week. Recommended offer: ₹28L.
+**DRO Position Summary:** CRITICAL — position remains unfilled 3 months after the original "close this week" recommendation. Pipeline restarted with a second recruiter and five new candidates; latest activity (Rahul Dubey interview) was Aug 3, 2026. Needs a decision: pursue Rahul Dubey, revisit Kuwarjeet, or continue sourcing.
 
 ---
 
@@ -279,3 +290,15 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Update Log
+
+### Aug 14, 2026 Check
+Reviewed Gmail and Calendar for candidate-related activity since the May 19 report.
+
+- **DRO-001 (Chief Digital Revenue Officer):** Major update — see revised section above. Kuwarjeet Sidana's status is unconfirmed; 5 additional candidates (Amit Dhyani, Suresh Singh, Prashant Kumar, Yogesh Lodwal, Rahul Dubey) were interviewed May–Aug via a second recruiter (Lagrange Point). Position is still open. **Needs hiring manager decision.**
+- **FIN-001 (Sr Finance Manager):** No new correspondence found for CA Rahul Madaan or confirming Jatin Sachdeva's onboarding since May 19. Status in the report above (Rahul = PRIMARY, uncontacted-confirmation; Jatin = HIRED, joining June 18) could not be verified either way from email/calendar — recommend manual confirmation.
+- **RPA-001 (RPA Developer):** No new correspondence found for Kamal, Anshul Vashisth, or Shahe Faisal since May 19. Status unverified — recommend manual confirmation.
+- This daily calendar reminder has been firing since June 2, 2026 but this is the first commit updating this report since the original May 19 version — the pipeline had gone stale for ~3 months.
