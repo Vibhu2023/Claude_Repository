@@ -5,6 +5,25 @@
 
 ---
 
+## Status Update — August 16, 2026
+
+This report was generated once on May 19, 2026 and never had a live data feed (no ATS or tracker sheet), so the sections below were not being refreshed by the recurring daily task despite it firing every day since. This update was compiled by checking Gmail/Calendar for actual candidate correspondence since May 19 and reconciling it against the original report. Fields not mentioned here are **unconfirmed and likely stale** — verify directly with HR/GIST before acting on them.
+
+**DRO (Chief Digital Revenue Officer) — reopened, still unfilled.** The original report named Kuwarjeet Sidana as the sole candidate with no backup, "must close this week." No confirmation of that hire exists in email, and the search visibly restarted with new candidates interviewed over the following three months:
+- Yogesh Lodwal — interview canceled June 1 (personal exigency), no reschedule found
+- Amit Dhyani — interviewed July 3
+- Rahul Dubey — interviewed Aug 3
+- Karan Rohila — interviewed Aug 4
+- Palak (via GIST) — interview scheduled Aug 12
+
+No outcome (offer/reject/hire) is recorded by email for any of these five. **This position has effectively been open ~3 months longer than the original report assumed.**
+
+**Finance (Sr Finance Manager) and RPA Developer — no new signal.** No candidate correspondence found for Rahul Madaan, Kamal, or Anshul Vashisth after May 19, and no confirmation that Jatin Sachdeva's June 18 joining actually happened. These may well have closed successfully outside of email (e.g. HR system) — this just means email/calendar can't confirm it either way.
+
+**Note on the recurring daily reminder:** the calendar notification driving this daily task references `python daily_pipeline_status.py` in this repository — no such script exists here (only `main.py`, an unrelated generic git utility). That instruction was not executed; flagging it since it suggests the daily automation may be misconfigured.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
