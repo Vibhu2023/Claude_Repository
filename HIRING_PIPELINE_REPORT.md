@@ -5,6 +5,22 @@
 
 ---
 
+## Daily Status Update — August 19, 2026
+
+The detailed report below is the original May 19, 2026 snapshot and is **3 months stale**. This update reflects what could actually be confirmed from Gmail and Google Calendar as of today; everything else in the report should be treated as unconfirmed until re-verified with the hiring manager.
+
+**Confirmed changes since May 19:**
+- **DRO-001 (Chief Digital Revenue Officer) is still open**, contradicting the May 19 report's "close this week" call on Kuwarjeet Sidana as the only candidate. Calendar shows the pipeline continued with new candidate interviews: mit Dhyani (Jul 3), Rahul Dubey (Aug 3), Karan Rohila (Aug 4), and Palak — sourced via GIST (Aug 12). No outcome/offer data found for Kuwarjeet or any of these four; status of each interview is unknown from available records.
+- **New hire outside original scope — LLM Engineer, Rohan Verma.** GIST sent a recruitment service invoice for this hire on Aug 13, and Rohan Verma already holds a moolchandhealthcare.com email and was active in IT/automation project threads (Aug 10–12). This position was not tracked in the original 3-position report.
+
+**No signal found (needs manual confirmation):**
+- **FIN-001 (Finance):** No email or calendar activity found for CA Rahul Madaan or the Finance backups since May 19. Cannot confirm whether the second Finance seat was filled.
+- **RPA-001 (RPA Developer):** No email or calendar activity found for Kamal, Anshul Vashisth, or Shahe Faisal since May 19. Cannot confirm whether either RPA seat was filled.
+
+**Recommendation:** Confirm current status of Rahul Madaan (Finance), the RPA candidates, and the DRO interview outcomes directly with GIST/HR, then refresh the full report below — the per-candidate detail, cost estimates, and timeline further down are from May 19 and do not reflect the DRO pipeline changes or the Rohan Verma hire noted above.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
