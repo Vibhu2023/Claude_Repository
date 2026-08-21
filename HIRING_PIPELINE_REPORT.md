@@ -5,6 +5,22 @@
 
 ---
 
+## Daily Status Update — August 21, 2026
+
+The report below is the original May 19, 2026 snapshot and is now **3 months stale**. No session running the daily 10 AM check-in has confirmed a full re-verification with the hiring manager or with GIST since that date. This update reflects only what could be independently confirmed from Gmail and Google Calendar today (cross-checked against a partial finding from the Aug 19 run); everything else below should be treated as unconfirmed.
+
+**Confirmed since May 19:**
+- **DRO-001 (Chief Digital Revenue Officer) was not closed with Kuwarjeet Sidana as the May 19 report recommended.** The pipeline continued: the pre-existing Amit Dhyani interview (scheduled May 20–21) was **canceled**, and three new candidates were interviewed via a fresh round — **Rahul Dubey** (Aug 3), **Karan Rohila** (Aug 4), and **Palak**, sourced via GIST (Aug 12). No outcome — for Kuwarjeet or any of the three August interviews — is recorded in Gmail or Calendar. The role's status must be confirmed directly with the hiring manager; do not assume Kuwarjeet was hired.
+- **An untracked hire has occurred outside the original 3-position scope: Rohan Verma, LLM Engineer**, sourced via GIST. GIST sent a recruitment service invoice for this hire on Aug 13. Rohan Verma already holds an @moolchandhealthcare.com email and has been active in IT/automation project threads (Aug 10–12, DeepSeek/N8N setup). This position should be added to the tracked pipeline.
+
+**No signal found (needs manual confirmation):**
+- **FIN-001 (Finance):** No email or calendar activity for CA Rahul Madaan or any Finance backup (Manu Singla, Jatin Anand, Kapil Sharma, Ritu Arora, Shukla Satia) since May 19. Whether the second Finance seat was filled is unknown.
+- **RPA-001 (RPA Developer):** No email or calendar activity for Kamal, Anshul Vashisth, or Shahe Faisal since May 19. Whether either RPA seat was filled is unknown.
+
+**Automation gap — flagging for the hiring manager:** This daily 10 AM check-in has been running since early June (confirmed via ~60 dated session branches in this repository) but **no run has ever merged an update back into this report** — each day's findings were pushed to a disposable, never-merged branch. This is the first update actually landing in the report since May 19. Separately, the recurring calendar reminder instructs running `python daily_pipeline_status.py`, but no such script exists anywhere in this repository — that reminder has never been actionable as written.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
