@@ -1,7 +1,74 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Pipeline data as of:** May 19, 2026  
+**Last status check:** August 26, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
+
+---
+
+## ⚠️ Daily Status Check — August 26, 2026
+
+**Result: NO CHANGE since Aug 24. Pipeline data is now 99 days stale.**
+
+A mailbox search for the two most recent business days (Aug 25–26) turned up no correspondence
+from or about any of the five active candidates (Jatin Sachdeva, CA Rahul Madaan, Kamal, Anshul
+Vashisth, Kuwarjeet Sidana). The past-due milestones flagged on Aug 24 remain unconfirmed and
+are now 2 days further past due.
+
+The **Aug 13 GIST invoice for Rohan Verma (LLM Engineer)** — a hiring event with no matching
+requisition in this report — is still sitting unread, 13 days on. It has not been triaged in
+any of the daily checks since it arrived.
+
+No action was taken on the "consolidate the three duplicate 10 AM reminders" item from Aug 24;
+one of those reminders still instructs the assistant to run a `daily_pipeline_status.py` script
+that does not exist in this repository — flagged again for visibility, not executed.
+
+**Process note:** this report has now been independently forked and re-written by at least
+59 separate daily automation runs since May 19, each on its own throwaway branch, because the
+originating PR (#1) was closed without merging. None of those daily updates — including this
+one — reach the hiring manager unless a branch is merged or a PR is opened. Recommend either
+merging one branch as the canonical tracker or pointing this automation at a live data source
+(ATS export / shared sheet) so "daily status" reflects something that actually changes.
+
+---
+
+## ⚠️ Daily Status Check — August 24, 2026
+
+**Result: NO VERIFIABLE CHANGE. Pipeline data is 97 days stale and every milestone below is past due.**
+
+A search of the hiring manager's mailbox (all folders, by candidate name, email address, and
+recruiting agency, covering May 19 → Aug 24) returned **zero correspondence with any active
+candidate**. Nothing has been confirmed, declined, or advanced on the record since the report
+was written.
+
+### Past-due milestones — status UNVERIFIED
+| Candidate | Position | Milestone in report | Days past due |
+|-----------|----------|--------------------|---------------|
+| Jatin Sachdeva | Finance | Joining June 18, 2026 | 67 |
+| Kuwarjeet Sidana | DRO | Start June 15–30, 2026 | 55+ |
+| CA Rahul Madaan | Finance | "Contact TODAY" (May 19) | 97 |
+| Kamal | RPA #1 | Outreach May 20–21 | 95 |
+| Anshul Vashisth | RPA #2 | Contact May 27–28 | 89 |
+
+None of the above can be confirmed from available records. Whether Jatin actually joined,
+and whether the other four were ever contacted, is unknown to this tracker.
+
+### Only new hiring signal found
+- **Aug 13, 2026** — GIST Consulting invoiced Moolchand for placing **Rohan Verma, LLM Engineer**
+  (`hr@gist.org.in`, "Recruitment Service Invoice from GIST to Moolchand", attachment
+  `021 Moolchand Hospital.pdf`). This role and candidate **do not appear anywhere in this
+  pipeline report**, and the email is still unread. Either the tracker is missing a whole
+  requisition, or the invoice needs review.
+
+### What this tracker needs
+This report is a static snapshot with no live data source behind it. The daily 10 AM check
+can only re-read what was written in May. To make it useful, candidate status must come from
+somewhere that actually changes — ATS export, a shared tracker sheet, or emails from GIST.
+
+**Housekeeping:** three separate 10 AM calendar reminders are firing daily for this same
+review ("📋 Hiring Pipeline - Daily Candidate Status Update", "🔔 Daily Hiring Pipeline Status
+Review", "📋 Hiring Pipeline Daily Status — 10 AM"). One references
+`daily_pipeline_status.py`, which does not exist in this repository. Consolidate to one.
 
 ---
 
@@ -17,7 +84,10 @@
 | **Rejected/Excluded** | 8 |
 | **Cost Estimate (Remaining 4)** | ₹89-91L |
 
-**Overall Status:** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+**Overall Status (as of May 19):** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+
+**Overall Status (as of Aug 24):** STALE - all figures below are the May 19 snapshot and have not
+been re-verified. Treat counts, offers, and dates as historical, not current.
 
 ---
 
@@ -276,6 +346,7 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Pipeline data last updated:** May 19, 2026  
+**Last status check:** August 26, 2026 (no change — see top of report)  
+**Next Review:** August 27, 2026 (daily 10 AM)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
