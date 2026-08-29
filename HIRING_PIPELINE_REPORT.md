@@ -5,6 +5,23 @@
 
 ---
 
+## Daily Status Check Log
+
+| Date | Result |
+|------|--------|
+| 2026-08-29 | No new candidate correspondence found in Gmail/Calendar since May 19, 2026 for any of the 4 open primary candidates (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth). All target start dates below have now passed with no confirmation on record — **needs manual follow-up**, not just an automated check. |
+
+**Stale target dates (as of today, Aug 29, 2026):**
+- Rahul Madaan (Finance) — est. start Mid-June 2026 — no acceptance/decline on record
+- Kuwarjeet Sidana (DRO) — est. start June 15-30, 2026 — no acceptance/decline on record
+- Kamal (RPA #1) — est. start July 2026 — no acceptance/decline on record
+- Anshul Vashisth (RPA #2) — est. start July 2026 — no acceptance/decline on record
+- Jatin Sachdeva (Finance, HIRED) — joining date June 18, 2026 — no onboarding confirmation on record
+
+All figures below reflect the last confirmed state (May 19, 2026) and have not changed.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
