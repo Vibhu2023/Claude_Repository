@@ -1,7 +1,26 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026 | **Last Status Check:** September 3, 2026  
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 27 (+2 developments below, see Daily Status Update Log)
+
+---
+
+## Daily Status Update Log
+
+> This report has not been updated with confirmed outcomes since May 19, 2026. The sections below
+> (Position Overview, Critical Actions Dashboard, Candidate Status Breakdown, Cost Estimate) are the
+> **original May 19 snapshot** and are stale for Rahul Madaan (Finance), Kamal / Anshul Vashisth (RPA),
+> and Kuwarjeet Sidana (DRO) — no confirmation of offer acceptance, joining, or decline was found in
+> mailbox activity. Two developments **were** found via Gmail search that are not yet reflected below:
+
+| Date | Position | Development | Source | Needs |
+|------|----------|-------------|--------|-------|
+| Aug 12, 2026 | DRO-001 | New candidate **Palak** interviewed ("Palak DRO \| GIST") | Calendar invite from moolchandhospital@gmail.com | Confirm outcome — does this replace or supplement Kuwarjeet Sidana as the DRO primary? Report's "NO BACKUP" risk note may be outdated. |
+| Aug 13, 2026 | *Not tracked* | **Rohan Verma** hired as **LLM Engineer** via GIST — recruitment invoice issued | Email from hr@gist.org.in | Confirm CTC/joining and decide whether this position should be added to the tracked pipeline going forward. |
+
+No inbox activity was found confirming Rahul Madaan's Finance offer, Kamal's or Anshul Vashisth's RPA
+offers, or Jatin Sachdeva's June 18 onboarding. Recommend a direct check-in with GIST (Hemant Kulasri)
+and the candidates before treating the figures below as current.
 
 ---
 
