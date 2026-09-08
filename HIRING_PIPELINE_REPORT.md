@@ -279,3 +279,28 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Addendum: Pipeline Activity Update (as of September 8, 2026)
+
+This report went stale after May 19 — no candidate-status data source (ATS, recruiter emails) was available to update it automatically. The section below reflects only what could be independently confirmed from calendar/email records; it does **not** re-verify or override the hire/offer statuses above, which are unconfirmed since May 19.
+
+### Confirmed new activity — DRO (Chief Digital Revenue Officer)
+The original report flagged Kuwarjeet Sidana as the **sole DRO candidate, no backup, must close in the week of May 19**. Calendar records show recruiting continued well past that window, indicating Kuwarjeet's close is **not confirmed** and the search reopened:
+
+| Candidate | Event | Date |
+|---|---|---|
+| Suresh | Suresh \| Digital Revenue (interview) | May 27, 2026 |
+| mit Dhyani | mit Dhyani \| DRO (interview) | Jul 3, 2026 |
+| Rahul Dubey | Rahul Dubey \| DRO (interview) | Aug 3, 2026 |
+| Karan Rohila | Karan Rohila <> DRO (interview) | Aug 4, 2026 |
+| Palak | Palak DRO \| GIST (interview) | Aug 12, 2026 |
+
+**Action needed:** Confirm directly with Moolchand HR/MD office whether Kuwarjeet Sidana was hired, and if not, which of the five candidates above is now the leading DRO candidate.
+
+### No new activity found — Finance (FIN-001) and RPA (RPA-001)
+No further candidate interviews for the Finance or RPA Developer roles appear in calendar/email records after May 19. This is inconclusive — it may mean Jatin Sachdeva's finance hire and the Rahul Madaan / Kamal / Anshul outreach proceeded as planned with no further need to interview, or it may mean those threads went quiet. **Not independently confirmed either way.**
+
+### Process note
+A recurring "Daily Hiring Pipeline Status" calendar reminder has been firing since early August asking to run `python daily_pipeline_status.py` — that script does not exist in this repository, and there is no connected ATS or recruiter mailbox to pull live candidate status from. Daily updates to this report can only be as good as the source data feeding them; recommend either wiring up GIST Consulting/HR email threads for this account or maintaining status via a manual weekly sync until a real data source exists.
