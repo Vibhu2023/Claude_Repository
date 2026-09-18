@@ -5,6 +5,23 @@
 
 ---
 
+## Daily Status Check Log
+
+| Check Date | Result |
+|------------|--------|
+| **Sep 18, 2026** | ⚠️ **NO NEW CANDIDATE ACTIVITY FOUND.** Mailbox search (GIST Consulting / Hemant Kulasri, Rahul Madaan, Kamal, Anshul Vashisth, Kuwarjeet Sidana, Jatin Sachdeva, Shahe Faisal) turned up nothing newer than **May 13, 2026**. All data below is unchanged from the May 19 snapshot — none of it has been independently confirmed in **4 months**. See "Data Staleness Warning" below. |
+
+### Data Staleness Warning
+This report's "PRIMARY - Contact Today/This Week" action items and the Jun–Jul 2026 start dates are **unverified and almost certainly out of date**:
+- No email confirms **Jatin Sachdeva** actually joined on his stated **June 18, 2026** date.
+- No response on file from **CA Rahul Madaan** (Finance), **Kamal** or **Anshul Vashisth** (RPA), or **Kuwarjeet Sidana** (DRO) accepting, declining, or negotiating the offers described below.
+- The recruiter contact (Hemant Kulasri, GIST Consulting) has not emailed since **May 13, 2026**.
+- The DRO role (Kuwarjeet Sidana) has **zero backup** per the original report — if he was not closed in real time back in May, this position may still be open with no fallback.
+
+**Recommendation:** Manually verify current status with HR/recruiter before relying on any of the figures, names, or "hired" markers below.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
