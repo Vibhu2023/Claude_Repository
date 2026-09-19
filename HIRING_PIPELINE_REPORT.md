@@ -9,6 +9,7 @@
 
 | Check Date | Result |
 |------------|--------|
+| **Sep 19, 2026** | ⚠️ **NO NEW CANDIDATE ACTIVITY FOUND.** Mailbox search (GIST Consulting / Hemant Kulasri, Rahul Madaan, Kamal, Anshul Vashisth, Kuwarjeet Sidana, Jatin Sachdeva, Shahe Faisal) still turns up nothing newer than **May 13, 2026**. The only GIST-related email this week is a Sep 18 recruitment invoice for an unrelated role (Nursing Superintendent). All data below remains unchanged from the May 19 snapshot — still unconfirmed after **4 months**. See "Data Staleness Warning" below. |
 | **Sep 18, 2026** | ⚠️ **NO NEW CANDIDATE ACTIVITY FOUND.** Mailbox search (GIST Consulting / Hemant Kulasri, Rahul Madaan, Kamal, Anshul Vashisth, Kuwarjeet Sidana, Jatin Sachdeva, Shahe Faisal) turned up nothing newer than **May 13, 2026**. All data below is unchanged from the May 19 snapshot — none of it has been independently confirmed in **4 months**. See "Data Staleness Warning" below. |
 
 ### Data Staleness Warning
