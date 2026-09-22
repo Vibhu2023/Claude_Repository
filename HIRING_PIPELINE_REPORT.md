@@ -276,6 +276,24 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
+## Daily Status Check — September 22, 2026
+
+**Result: NO CHANGE — no new candidate correspondence found. Pipeline is stale and needs manual follow-up.**
+
+- Searched the connected mailbox (inbox, sent, archive, trash) for all 4 active candidates — CA Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth — and for confirmation of Jatin Sachdeva's hire. No emails, replies, or other correspondence were found since this report was generated on May 19, 2026 (4+ months).
+- Every committed date in this report has now passed with no confirmation on file:
+  - Jatin Sachdeva joining, June 18, 2026 — **not confirmed**
+  - Kuwarjeet Sidana start, June 15-30, 2026 — **not confirmed**
+  - Kamal / Anshul Vashisth (RPA) start, July 2026 — **not confirmed**
+- Recurring "Daily Hiring Pipeline Status Review" calendar reminders have fired every day since at least Aug 11, 2026; this is the first time that check has resulted in a report update being committed to this repository.
+- An email-cleanup automation ("gmail-moolchand-promo-cleanup" / "Auto-remove Moolchand visitor queries every 2 days") has been auto-trashing Moolchand-related mail in bulk (356 messages on Sep 20, 29 on Sep 17, 28 on Sep 19, etc.). This could be discarding genuine candidate correspondence before it's ever seen — worth auditing its filter rules.
+- One real, unrelated hiring signal turned up during the search: a candidate for a separate "Corporate Communication" role (not one of the 3 positions tracked here) accepted an offer on Aug 25 and then withdrew on Sep 21. Noted for visibility only; out of scope for this report.
+
+**Recommended action:** Confirm outcomes directly (phone/GIST) for Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth, and Jatin Sachdeva, since no email trail exists to update this report from.
+
+---
+
 **Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Status Check:** September 22, 2026 — no change (see above)  
+**Next Review:** September 23, 2026  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
