@@ -1,7 +1,15 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
-**Generated:** May 19, 2026  
+**Generated:** May 19, 2026 | **Last Updated:** September 26, 2026  
 **Hiring Manager:** Vibhu Talwar  
-**Total Candidates:** 27
+**Total Candidates:** 28
+
+---
+
+## 🔔 Daily Status Update — September 26, 2026
+
+**NEW CRITICAL EVENT — action needed:** Jashlok Prakash (Corporate Communication) accepted a Letter of Intent on Aug 25 with a proposed joining date of **Sep 25, 2026** — and then **withdrew on Sep 21, 2026**, citing a retention counter-offer from his current employer. His withdrawal email is still sitting **unread** in the inbox (received Sep 21, 07:49 UTC). See new position section below (CORP-COMM-001).
+
+Checked mailbox for movement on the other three tracked roles (Finance, RPA ×2, DRO) since the May 19 report: **no emails to/from or about CA Rahul Madaan, Kuwarjeet Sidana, Kamal, or Anshul Vashisth were found.** There is no record of the "contact today" outreach in the original report having actually gone out from this inbox. Status below for those four is carried over unchanged from May 19 and should be treated as **unverified/stale** until confirmed by phone or WhatsApp (outreach for this role may happen outside email).
 
 ---
 
@@ -9,15 +17,16 @@
 
 | Metric | Status |
 |--------|--------|
-| **Total Open Positions** | 3 |
-| **Total Candidates** | 27 |
+| **Total Open Positions** | 4 |
+| **Total Candidates** | 28 |
 | **Hired** | 1 |
 | **Active Candidates (Primary)** | 4 |
 | **Backup Candidates** | 5 |
+| **Backed Out** | 2 |
 | **Rejected/Excluded** | 8 |
 | **Cost Estimate (Remaining 4)** | ₹89-91L |
 
-**Overall Status:** CRITICAL - 2 key candidates just changed status (Jatin confirmed, Ritik backed out, Vikas rejected)
+**Overall Status:** CRITICAL - Corporate Communication hire (Jashlok Prakash) backed out 4 days before joining; unread in inbox. Finance/RPA/DRO status unverified since May 19 — no email trail of outreach found.
 
 ---
 
@@ -138,7 +147,31 @@
 
 ---
 
+### 4. Corporate Communication (CORP-COMM-001)
+**Target:** 1 position | **Hired:** 0 | **Need:** 1 (re-opened) — **NO BACKUP**
+
+#### BACKED OUT — 4 Days Before Joining
+- **Jashlok Prakash** (CORP-COMM-JAS-001)
+  - Location: Moolchand Hospital, Lajpat Nagar, New Delhi
+  - **Timeline:**
+    - Aug 24, 2026 — Letter of Intent issued, proposed joining Sep 25, 2026
+    - Aug 25, 2026 — Accepted offer in writing ("Thanks for the opportunity. I accept the offer.")
+    - Sep 21, 2026 — **Withdrew**, citing a retention counter-offer (increased salary + enhanced position) from current employer
+  - **Status:** BACKED OUT — his withdrawal email is unread in the inbox as of this report
+  - **Action:** Re-open search for Corporate Communication; no backup candidate exists for this role
+  - **Risk:** CRITICAL — zero pipeline for this department
+
+**Corporate Communication Position Summary:** Second "accepted-then-backed-out" case after Ritik Gupta (RPA), same root cause pattern (competing counter-offer). No sourcing pipeline currently exists for this role — needs to restart from scratch.
+
+---
+
 ## Critical Actions Dashboard
+
+### PRIORITY 0 - TODAY (NEW)
+**Read & respond to:** Jashlok Prakash withdrawal email (Corporate Communication)
+- **Thread:** "Letter of Intent | Jashlok Prakash" — currently unread in inbox
+- **Reason:** He backed out 4 days before his Sep 25 joining date; role has zero backup
+- **Action:** Acknowledge his email, restart sourcing for Corporate Communication
 
 ### PRIORITY 1 - TODAY/TOMORROW
 **Contact:** CA Rahul Madaan (Finance)
@@ -190,7 +223,7 @@
 | **Excluded** | 2 | CA Bharat Sharma, CA Abhinav Jain (exceed 6-10yr ceiling) |
 | **Rejected** | 7 | Abhishek Goyal, Vikas Jain, Harit Kumar, Upasana Gautam, Pragati Kumari, V. Mohan Reddy, Shyam Sagar |
 | **Withdrawn** | 1 | Shivani Jain |
-| **Backed Out** | 1 | Ritik Gupta (RPA - was hired) |
+| **Backed Out** | 2 | Ritik Gupta (RPA - was hired), Jashlok Prakash (Corp Comm - accepted, withdrew Sep 21) |
 
 ---
 
@@ -272,10 +305,13 @@ May 27-28    → Contact Anshul (RPA #2)
 June 18      → Jatin Sachdeva joins (Finance)
 June 15-30   → Kuwarjeet joins (DRO)
 July 2026    → Kamal + Anshul expected start (RPA)
+Aug 24-25    → Jashlok Prakash (Corp Comm) offered & accepted
+Sep 21       → Jashlok Prakash withdraws (4 days before Sep 25 join date)
+Sep 26       → Corporate Communication search re-opened; Finance/RPA/DRO status unverified
 ```
 
 ---
 
-**Last Updated:** May 19, 2026  
-**Next Review:** May 26, 2026 (Post-primary outreach)  
+**Last Updated:** September 26, 2026 (daily automated review)  
+**Next Review:** September 27, 2026  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
