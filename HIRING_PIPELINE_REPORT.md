@@ -3,6 +3,10 @@
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
 
+## Daily Status Check - Oct 4, 2026
+- **Data freshness:** Pipeline data below was last updated May 19, 2026. No recruiting emails (GIST, candidate replies, offers) or interview calendar events were found in Gmail/Calendar in the last 5 days, so no status changes could be confirmed.
+- **Needs your input:** Several dates below have passed (Jatin joining Jun 18, Kuwarjeet Jun 15-30, RPA hires July). Please share current outcomes so the report can be brought up to date.
+
 ---
 
 ## Executive Summary
