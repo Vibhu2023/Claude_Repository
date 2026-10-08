@@ -1,5 +1,6 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
+**Last daily check:** Oct 8, 2026 (no new candidate updates found; statuses below are as of May 19–27)  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
 
@@ -279,3 +280,11 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Status Log
+
+| Date | Check | Result |
+|------|-------|--------|
+| Oct 8, 2026 | Gmail (candidate/GIST/offer/interview mail) + Calendar interviews | No emails from or about tracked candidates (Rahul, Kuwarjeet, Kamal, Anshul, Jatin S.); latest pipeline-related calendar event is May 27. Only generic careers-form applications (Oct 7) not in tracker. No status changes recorded. |
