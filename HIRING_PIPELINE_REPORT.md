@@ -5,6 +5,13 @@
 
 ---
 
+## Daily Status Check - October 12, 2026
+- No new candidate correspondence found in Gmail (searched last 30 days for Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul, Jatin Sachdeva, GIST/Hemant, offer letters).
+- Pipeline statuses below are **unchanged from the May 19, 2026 snapshot and are stale** (planned joining dates of June 18 and June-July have already passed). Please send current statuses (joined / offered / dropped) so this report can be refreshed.
+- Inbox only shows routine Moolchand website enquiries and applications (nursing, general); none map to the tracked positions.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
