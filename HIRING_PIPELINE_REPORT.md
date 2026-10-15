@@ -3,6 +3,12 @@
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
 
+## Daily Status Update - Oct 15, 2026
+
+- **No new candidate activity found** in Gmail (last 3 days) or Calendar (next 7 days: no interviews scheduled).
+- **Report data is stale:** all statuses below are as of May 19, 2026. Planned dates (Jatin joining June 18, Rahul/Kuwarjeet June, Kamal/Anshul July) have passed and outcomes are not recorded. Please supply current statuses (offers, joins, drop-outs) so the pipeline can be refreshed.
+- Statuses below are unchanged pending that input.
+
 ---
 
 ## Executive Summary
