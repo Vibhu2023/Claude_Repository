@@ -5,6 +5,14 @@
 
 ---
 
+## Daily Status Check Log
+
+| Date | Result |
+|------|--------|
+| 2026-10-27 | No new candidate activity found in Gmail (last 30 days) for any pipeline candidate (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth, Shahe Faisal, Jatin Sachdeva, GIST). Statuses below are unchanged from the May 19, 2026 report and may be stale. |
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
