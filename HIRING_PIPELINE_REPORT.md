@@ -276,6 +276,6 @@ July 2026    → Kamal + Anshul expected start (RPA)
 
 ---
 
-**Last Updated:** May 19, 2026  
+**Last Updated:** October 31, 2026 (daily check: no new candidate emails in the last 7 days; statuses below unchanged from May 19 data)  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
