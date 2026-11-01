@@ -279,3 +279,12 @@ July 2026    → Kamal + Anshul expected start (RPA)
 **Last Updated:** May 19, 2026  
 **Next Review:** May 26, 2026 (Post-primary outreach)  
 **Report Generated For:** Vibhu Talwar, Hiring Manager
+
+---
+
+## Daily Status Log
+
+### 2026-11-01 (10:00 AM check)
+- **No new candidate activity found.** Gmail search (last 3-7 days) returned no emails from or about any pipeline candidate (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth, Jatin Sachdeva, Shahe Faisal) or from GIST Consulting.
+- **Statuses below are unchanged from the May 19, 2026 report and are unverified.** Several planned dates (Jatin's June 18 joining, the June/July starts for Rahul, Kuwarjeet, Kamal and Anshul) have since passed. Outcomes were not recorded in this repo.
+- **Action for Hiring Manager:** Confirm the actual outcome for each position (FIN-001, RPA-001, DRO-001) so this report can be refreshed.
