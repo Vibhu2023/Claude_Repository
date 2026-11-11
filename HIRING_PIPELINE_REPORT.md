@@ -1,4 +1,24 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
+
+> ## 🔎 Daily Status Check — November 11, 2026 (10:00 IST)
+> **Result: NO NEW CANDIDATE ACTIVITY FOUND — pipeline data is stale (last real update May 19, 2026).**
+>
+> Sources checked: Gmail (candidate names, contact emails, GIST Consulting, interview/offer/joining keywords, Sep 1 → Nov 11) and Google Drive (hiring/pipeline/candidate files).
+>
+> | Candidate | Role | Last recorded status | Evidence since May 19 |
+> |---|---|---|---|
+> | Jatin Sachdeva | Finance (FIN-001) | Hired, joining Jun 18 | None — joining not confirmed in mail |
+> | CA Rahul Madaan | Finance (FIN-001) | Primary, offer ₹42-44L | None |
+> | Kamal | RPA (RPA-001) | Primary #1 via GIST | None |
+> | Anshul Vashisth | RPA (RPA-001) | Primary #2 | None |
+> | Shahe Faisal | RPA (RPA-001) | Premium optional | None |
+> | Kuwarjeet Sidana | DRO (DRO-001) | Only candidate, offer ₹28L | None |
+>
+> **Related GIST activity:** invoices for *LLM Engineer – Rohan Verma* (Aug 13) and *Nursing Superintendent* (Sep 18) — both outside this pipeline's three roles.
+>
+> **Action needed:** All projected start dates (June–July 2026) have passed. Please confirm outcomes for the six candidates above (e.g. reply to the routine or edit this file) so the daily check can track live status.
+
+---
 **Generated:** May 19, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
