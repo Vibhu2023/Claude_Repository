@@ -1,4 +1,26 @@
 # Moolchand Healthcare Group - Hiring Pipeline Report
+
+## Daily Status Update — 16 Nov 2026 (10 AM IST check)
+
+**Data freshness warning:** The candidate data below was last confirmed on **19 May 2026** (181 days ago). Gmail and Google Drive have **no messages about any of the May pipeline candidates** since then: Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth, Shahe Faisal, Jatin Sachdeva and the finance backups. Their outcomes are **unknown, not confirmed**.
+
+### Hiring events found since May (from Gmail)
+| Date | Event | Source |
+|------|-------|--------|
+| 13 Aug 2026 | **Hired: Rohan Verma, LLM Engineer** (via GIST). He is now active at Moolchand, sending mail from rohan.verma@moolchandhealthcare.com | GIST recruitment invoice |
+| 18 Sep 2026 | **Hired: Nursing Superintendent** (via GIST, name not in email) | GIST recruitment invoice |
+| 21 Sep 2026 | **Declined: Jashlok Prakash, Corp Comm.** He turned down the Letter of Intent after agreeing to join by 25 Sep | Candidate reply to LOI |
+| 26 Oct 2026 | Talynce AI-ATS trial evaluated by Shashi/Rohan; pricing received | Rohan Verma email |
+
+### Open items needing your input
+1. **Finance (FIN-001):** Did Jatin Sachdeva join on 18 June? Was Rahul Madaan (or a backup) offered or hired?
+2. **DRO (DRO-001):** Outcome for Kuwarjeet Sidana (the only candidate, offer was ₹28L)?
+3. **RPA (RPA-001):** Outcome for Kamal / Anshul Vashisth (expected start July 2026)?
+4. **Corp Comm:** Is the role open again after Jashlok Prakash declined?
+5. There is no live tracker in Drive or the repo, and `daily_pipeline_status.py` (named in the calendar reminders) is not in the repository. To make these daily updates accurate, share the current tracker sheet or send status changes by email.
+
+---
+
 **Generated:** May 19, 2026  
 **Hiring Manager:** Vibhu Talwar  
 **Total Candidates:** 27
