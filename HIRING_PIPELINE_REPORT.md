@@ -5,6 +5,18 @@
 
 ---
 
+## Daily Status Update — November 23, 2026
+
+**No new pipeline activity found.** Gmail and Google Drive were checked for updates on all candidates (Rahul Madaan, Kuwarjeet Sidana, Kamal, Anshul Vashisth, Shahe Faisal, Jatin Sachdeva, GIST/Hemant Kulasri).
+
+- The latest candidate emails are interview invites from **May 5–13, 2026**. Nothing has come in since the May 19 report.
+- Nothing in Mail or Drive confirms whether Rahul (Finance), Kuwarjeet (DRO), Kamal or Anshul (RPA) received offers or joined, or that Jatin Sachdeva joined on June 18.
+- One related lead: Rohan Verma sent a vendor trial and pricing proposal for **Talynce AI** (AI screening, video interviews, AI phone calling). It is not a candidate update.
+
+**Status of each candidate below = unchanged since May 19 (stale, ~6 months).** Please share the current pipeline source (ATS, sheet or GIST tracker) so daily updates can show live status.
+
+---
+
 ## Executive Summary
 
 | Metric | Status |
