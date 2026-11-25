@@ -1,3 +1,34 @@
+# Daily Status Update: November 25, 2026 (10:00 IST)
+
+**Bottom line:** I found no new hiring activity in Gmail, Google Calendar or Drive in the last 14 days. The May 19 pipeline below has **not been updated since late May**. I could not confirm the current status of the primary candidates.
+
+## Changes found since the May 19 report
+| Date | Candidate / Role | Update | Source |
+|------|------------------|--------|--------|
+| May 21, 2026 | Kuwarjeet Sidana (DRO) | Interview held via GIST (Hemant Kulasri) | Calendar |
+| May 23 / 27, 2026 | Anushka (Medical Recruiter), Stuti (TA) | Interviews scheduled | Calendar |
+| Aug 13, 2026 | Rohan Verma (LLM Engineer) | **Hired.** GIST invoice received, now on a Moolchand email | Gmail |
+| Aug 24-25, 2026 | Jashlok Prakash (Corporate Communication) | Accepted the Letter of Intent (DOJ Sep 25) | Gmail |
+| Sep 18, 2026 | Nursing Superintendent | **Hired.** GIST invoice received (unpaid/unread) | Gmail |
+| Sep 21, 2026 | Jashlok Prakash | **Declined.** Current employer made a counter-offer | Gmail |
+
+## Primary candidates: last known status (none updated since May)
+| Role | Candidate | Last known status | Needs confirmation |
+|------|-----------|-------------------|--------------------|
+| Sr Finance Manager #1 | Jatin Sachdeva | Hired, joining Jun 18 | Did he join? |
+| Sr Finance Manager #2 | CA Rahul Madaan | Primary, to be contacted May 19 | Offer outcome |
+| Chief Digital Revenue Officer | Kuwarjeet Sidana | Interviewed May 21 | Offer outcome |
+| RPA Developer #1 | Kamal | Primary, outreach via GIST | Offer outcome |
+| RPA Developer #2 | Anshul Vashisth | Primary, week 2 | Offer outcome |
+| RPA (premium) | Shahe Faisal | Optional | Still relevant? |
+
+## Open items
+- 2 unread GIST invoices: LLM Engineer (Aug 13) and Nursing Superintendent (Sep 18)
+- Corporate Communication role is open again after Jashlok declined
+- Data gap: the outcomes for the May primaries are not in email or the calendar. A tracker (Sheet/Drive), or adding the ATS/HR inbox, would make these daily updates accurate.
+
+---
+
 # Moolchand Healthcare Group - Hiring Pipeline Report
 **Generated:** May 19, 2026  
 **Hiring Manager:** Vibhu Talwar  
