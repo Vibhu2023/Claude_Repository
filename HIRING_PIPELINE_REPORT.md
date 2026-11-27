@@ -1,6 +1,8 @@
-# Daily Status Update: November 25, 2026 (10:00 IST)
+# Daily Status Update: November 27, 2026 (10:00 IST)
 
-**Bottom line:** I found no new hiring activity in Gmail, Google Calendar or Drive in the last 14 days. The May 19 pipeline below has **not been updated since late May**. I could not confirm the current status of the primary candidates.
+**Bottom line:** No change since the Nov 25 update. I checked Gmail, Google Calendar and Drive for Nov 24-27 and found no candidate, interview, offer, GIST or joining activity. The upcoming calendar (to Dec 3) has no interviews scheduled.
+
+_Previous update (Nov 25):_ I found no new hiring activity in Gmail, Google Calendar or Drive in the last 14 days. The May 19 pipeline below has **not been updated since late May**. I could not confirm the current status of the primary candidates.
 
 ## Changes found since the May 19 report
 | Date | Candidate / Role | Update | Source |
